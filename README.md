@@ -18,8 +18,8 @@ Product Owner
 
 プラットフォーム事業本部。2015年新卒入社。以下のプロダクトにおいてProduct Ownerを務める。
 - Product Owner : 2017~現在
-- Account(ID) + Auth + 個人情報 Back-end API: 2017/9～2018/7
-- ユーザーレビュー, プッシュ通知 : 2018/7～
+- Account(ID), Auth, Personalinfo : 2017/9～2018/7
+- Review, Push : 2018/7～
 
 ## 登壇歴
 |Data|Event|Slide|
