@@ -85,9 +85,10 @@
 - サーバーサイド
   - Linux(4年)
   - Bash(4年)
+  - ShellScript(4年)
   - AWK(２年)
   - PowerShell(1年)
-  - 
+  
 - インフラ
   - Docker(3年)
   - AWS(1年)
