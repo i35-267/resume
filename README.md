@@ -19,7 +19,7 @@
 - Product Owner : 2017~現在
 - Account(ID), Auth, Personalinfo : 2017/9～2018/7
 - Review, Push : 2018/7～
-###### チーム求人
+###### チーム求人 : 興味ある方、ぜひ連絡ください
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 - [Customer Decision Supportエンジニア](https://dmm-corp.com/recruit/engineer/5366)
 
