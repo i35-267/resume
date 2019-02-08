@@ -37,7 +37,7 @@
 
 
 ## メディア
-- [CodeZine] 『ZenHub x GitHub』を軸としたアジャイルプロセスの作り方 (近日公開)
+- 【CodeZine】 ZenHub x GitHub』を軸としたアジャイルプロセスの作り方 (近日公開)
 - [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
 ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
 - [【DMM inside】プロダクト成長のために『開発プロセス』を思考せよ！【Developers Boost 〜U30エンジニアの登竜門〜】](https://inside.dmm.com/entry/2018/12/26/devboost-devprocess)
