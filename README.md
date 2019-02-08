@@ -37,4 +37,11 @@
 
 
 ## メディア
-ログミー
+- [CodeZine] 『ZenHub x GitHub』を軸としたアジャイルプロセスの作り方 (近日公開)
+- [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
+ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
+- [【DMM inside】プロダクト成長のために『開発プロセス』を思考せよ！【Developers Boost 〜U30エンジニアの登竜門〜】](https://inside.dmm.com/entry/2018/12/26/devboost-devprocess)
+- [【DMM inside】DMMにおけるユーザーレビュー基盤の変革（プロダクトをGrowthさせるデータ駆動戦略編）](https://inside.dmm.com/entry/2018/12/10/data-driven-strategy)
+- [【DMM inside】『ZenHub x GitHub』を軸としたスクラム開発のプロセス設計](https://inside.dmm.com/entry/2018/09/05/zenhub-github)
+- [【DMM inside】【SRE】サービス稼働率Downを防ぐ！『Disaster in recovery training』というアプローチ方法について](https://inside.dmm.com/entry/2018/08/07/disaster-in-recovery-training)
+- [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
