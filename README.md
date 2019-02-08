@@ -82,8 +82,13 @@
   - Couchbase(4年)
   - Cassandra(2年)
   
-- インフラ/サーバーサイド
+- サーバーサイド
   - Linux(4年)
+  - Bash(4年)
+  - AWK(２年)
+  - PowerShell(1年)
+  - 
+- インフラ
   - Docker(3年)
   - AWS(1年)
   - GCP(1年未満)
@@ -103,5 +108,5 @@
 - CI/CD
   - Jenkins(4年)
   - CircleCI(1年未満)
-  - Flyway(3年)
-  - Capistrano(3年)
+  - Flyway(2年)
+  - Capistrano(2年)
