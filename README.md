@@ -13,7 +13,7 @@
 
 
 ## Summary
-#### 合同会社DMM.comProduct Owner 
+#### 合同会社DMM.com  Product Owner 
 
 プラットフォーム事業本部。2015年新卒入社。以下のプロダクトにおいてProduct Ownerを務める。
 - Product Owner : 2017~現在
