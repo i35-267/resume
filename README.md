@@ -63,8 +63,38 @@
   - JavaScript(1年)
   
 - Test
-  - Junit
-  - PHPUnit
-  - Codeception
-  - Cucumber
+  - Junit(4年)
+  - PHPUnit(1年)
+  - Codeception(2年)
+  - Cucumber(2年)
+  
+- ミドルウェア
+  - Apache Tomcat(4年)
+  - Nginx(3年)
+  - MySQL(4年)
+  - Couchbase(4年)
+  - Cassandra(2年)
+  
+- インフラ/サーバーサイド
+  - Linux(4年)
+  - Docker(3年)
+  - AWS(1年)
+  - GCP(1年未満)
+  - kubernetes(1年未満)
+  - IaC
+    - Ansible(4年)
+    - CloudFormation(1年未満)
+  
+- ログ/メトリクス
+  - ElasticSearch(2年)
+  - Kibana(2年)
+  - Fluentd(2年)
+  - NewRelic(2年)
+  - Zabbix(3年)
+  - Datadog(1年未満)
 
+- CI/CD
+  - Jenkins(4年)
+  - CircleCI(1年未満)
+  - Flyway(3年)
+  - Capistrano(3年)
