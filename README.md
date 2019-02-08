@@ -31,6 +31,7 @@
 |2018.07|[PO祭り 2018 Summer <br>～プロダクトマネジメントが世界をツナぐ～](https://postudy.doorkeeper.jp/events/73329)|[プロダクトがリリースされるまでを『見える化』 することで<br>組織体質を変えていった話〜改善を進める第一歩目〜](https://speakerdeck.com/i35_267/hurotakutokaririsusarerumatewo-jian-eruhua-surukotodezu-zhi-ti-zhi-wobian-eteitutahua-gai-shan-wojin-meruhazimefalse1bu-mu)|
 |2018.04|[DevOpsDayTokyo 2018](https://www.devopsdaystokyo.org/)|[VSM(ValueStreamMapping)によって 実現できたリリースまでに268.5hかかっていた時間を54.5hに短縮できた秘訣](https://speakerdeck.com/i35_267/vsm-valuestreammapping-niyotute-shi-xian-tekitaririsumateni268-dot-5hkakatuteitashi-jian-wo54-dot-5hniduan-suo-tekitami-jue)|
 |2018.01|DMM x LIFULL交流会|[プラットフォーム基盤の「見える化」 によるサービス貢献の話<br>~ Developer Experience(DX)を考える~](https://speakerdeck.com/i35_267/puratutohuomuji-pan-false-jian-eruhua-niyorusabisugong-xian-falsehua-developer-experience-dx-wokao-eru)|
+|2017.12|DMM開発AWARD|[VSM (Value Stream Mapping)を作ったら 開発プロセスが可視化されて一回の会議で 要件定義からリリースまでを268時間から40時間に リードタイムを短縮できることがわかった話 〜非エンジニアでもできるVSM作成〜](https://speakerdeck.com/i35_267/vsm-value-stream-mapping-wozuo-tutara-kai-fa-purosesugake-shi-hua-sarete-hui-falsehui-yi-de-yao-jian-ding-yi-kararirisumadewo268shi-jian-kara40shi-jian-ni-ridotaimuwoduan-suo-dekirukotogawakatutahua-fei-enziniademodekiruvsmzuo-cheng)|
 
 ※LT除く
 
