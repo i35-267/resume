@@ -33,8 +33,6 @@
 |2018.01|DMM x LIFULL交流会|[プラットフォーム基盤の「見える化」 によるサービス貢献の話<br>~ Developer Experience(DX)を考える~](https://speakerdeck.com/i35_267/puratutohuomuji-pan-false-jian-eruhua-niyorusabisugong-xian-falsehua-developer-experience-dx-wokao-eru)|
 |2017.12|DMM開発AWARD|[VSM (Value Stream Mapping)を作ったら 開発プロセスが可視化されて一回の会議で 要件定義からリリースまでを268時間から40時間に リードタイムを短縮できることがわかった話 〜非エンジニアでもできるVSM作成〜](https://speakerdeck.com/i35_267/vsm-value-stream-mapping-wozuo-tutara-kai-fa-purosesugake-shi-hua-sarete-hui-falsehui-yi-de-yao-jian-ding-yi-kararirisumadewo268shi-jian-kara40shi-jian-ni-ridotaimuwoduan-suo-dekirukotogawakatutahua-fei-enziniademodekiruvsmzuo-cheng)|
 
-※LT除く
-
 
 ## メディア
 - 【CodeZine】 ZenHub x GitHub』を軸としたアジャイルプロセスの作り方 (*近日公開*)
