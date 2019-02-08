@@ -46,12 +46,14 @@
 - [【DMM inside】【SRE】サービス稼働率Downを防ぐ！『Disaster in recovery training』というアプローチ方法について](https://inside.dmm.com/entry/2018/08/07/disaster-in-recovery-training)
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
+
 ## 専門分野
 - Agile
 - Lean
 - Data-Driven
 - Agile-Marketing
 - DevOps
+
 
 ## 言語・FW
 - Back-end
