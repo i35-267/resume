@@ -23,11 +23,20 @@
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 - [Customer Decision Supportエンジニア](https://dmm-corp.com/recruit/engineer/5366)
 
+## 専門分野
+- Agile 
+  - Scrum, XP
+  - Certified Scrum Product Owner®
+- Lean
+- Data-Driven
+- Agile-Marketing
+- DevOps
+
 
 ## 登壇歴
 |Data|Event|Slide|
 |---|---|---|
-|2019.02|[Developer Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|coming soon...|
+|2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|coming soon...|
 |2019.01|[Regional Scrum Gathering® Tokyo 2019](https://2019.scrumgatheringtokyo.org/index.html)|[プロダクトオーナーとして『開発プロセス』を思考せよ！ ](https://speakerdeck.com/i35_267/hurotakutoonatosite-kai-fa-hurosesu-wosi-kao-seyo)|
 |2018.12|[Developers Boost～U30エンジニアの登竜門](https://event.shoeisha.jp/devboost/20181215)|[プロダクト成長のために『開発プロセス』 を思考せよ!<br>〜EBMを軸とした『プロダクトの見える化』と『ムダからの解放』を実践したインパクトについて〜](https://speakerdeck.com/i35_267/hurotakutocheng-chang-falsetameni-kai-fa-hurosesu-wosi-kao-seyo)|
 |2018.08|[カイゼン・ジャーニー・カンファレンス](https://devlove.doorkeeper.jp/events/76166)|[チームを『組成→安定→高速→最適化』に導くKAIZEN メソッド郡](https://speakerdeck.com/i35_267/timuwo-zu-cheng-nil-an-ding-nil-gao-su-nil-zui-shi-hua-nidao-kukaizen-mesotudojun)|
@@ -47,25 +56,16 @@
 - [【DMM inside】【SRE】サービス稼働率Downを防ぐ！『Disaster in recovery training』というアプローチ方法について](https://inside.dmm.com/entry/2018/08/07/disaster-in-recovery-training)
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
-
-## 専門分野
-- Agile 
-  - Scrum(CSPO), XP
-- Lean
-- Data-Driven
-- Agile-Marketing
-- DevOps
-
-
 ## 言語・FW
 - Back-end
   - Java (4年)
     - Spring MVC(4年)
   - PHP (5年)
     - ZendFramework(1年)
+    - CakePHP(1年)
   - Ruby(1年)
-  - Go (1年)
-    - echo(1年)
+  - Go (1年未満)
+    - echo(1年未満)
   - Python(3年)
     - Django(1年)
   
@@ -88,7 +88,7 @@
 - サーバーサイド
   - Linux(4年)
   - Bash(4年)
-  - ShellScript(4年)
+  - ShellScript(3年)
   - AWK(２年)
   - PowerShell(1年)
   
