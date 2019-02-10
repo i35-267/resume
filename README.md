@@ -23,16 +23,6 @@
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 - [Customer Decision Supportエンジニア](https://dmm-corp.com/recruit/engineer/5366)
 
-## 専門分野
-- Agile 
-  - Scrum, XP
-  - Certified Scrum Product Owner®
-- Lean
-- Data-Driven
-- Agile-Marketing
-- DevOps
-
-
 ## 登壇歴
 |Data|Event|Slide|
 |---|---|---|
@@ -55,6 +45,15 @@
 - [【DMM inside】『ZenHub x GitHub』を軸としたスクラム開発のプロセス設計](https://inside.dmm.com/entry/2018/09/05/zenhub-github)
 - [【DMM inside】【SRE】サービス稼働率Downを防ぐ！『Disaster in recovery training』というアプローチ方法について](https://inside.dmm.com/entry/2018/08/07/disaster-in-recovery-training)
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
+
+## 専門分野
+- Agile 
+  - Scrum, XP
+  - Certified Scrum Product Owner®
+- Lean
+- Data-Driven
+- Agile-Marketing
+- DevOps
 
 ## 言語・FW
 - Back-end
