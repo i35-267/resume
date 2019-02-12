@@ -15,7 +15,7 @@
 ## 所属
 #### 合同会社DMM.com  Product Owner 
 
-プラットフォーム事業本部。2015年新卒入社。2017年より、以下のプロダクトにおいてProduct Ownerを務める。
+プラットフォーム事業本部。2015年新卒入社。2017年度より、以下のプロダクトにおいてProduct Ownerを務める。
 - Product Owner : 2017~現在
 - Account(ID), Auth, Personalinfo : 2017/9～2018/7
 - Review, Push : 2018/7～
