@@ -56,60 +56,69 @@
 - DevOps
 
 ## 言語・FW
+
 - Back-end
-  - Java (4年)
-    - Spring MVC(4年)
-  - PHP (5年)
-    - ZendFramework(1年)
-    - CakePHP(1年)
-  - Ruby(1年)
-  - Go (1年未満)
-    - echo(1年未満)
-  - Python(3年)
-    - Django(1年)
+  - Java
+    - Spring MVC
+  - PHP
+    - ZendFramework
+    - CakePHP
+  - Ruby(1年未満)
+  - Go(1年未満)
+    - echo
+  - Python
+    - Django
   
 - Front-end
-  - JavaScript(1年)
+  - JavaScript
   
 - Test
-  - Junit(4年)
-  - PHPUnit(1年)
-  - Codeception(2年)
-  - Cucumber(2年)
+  - Junit
+  - PHPUnit
+  - Codeception
+  - Cucumber
   
 - ミドルウェア
-  - Apache Tomcat(4年)
-  - Nginx(3年)
-  - MySQL(4年)
-  - Couchbase(4年)
-  - Cassandra(2年)
+  - Apache Tomcat
+  - Nginx
+  - MySQL
+  - Couchbase
+  - Cassandra
   
 - サーバーサイド
-  - Linux(4年)
-  - Bash(4年)
-  - ShellScript(3年)
-  - AWK(２年)
-  - PowerShell(1年)
+  - Linux
+  - Bash
+  - ShellScript
+  - AWK
+  - PowerShell(1年未満)
   
 - インフラ
-  - Docker(3年)
-  - AWS(1年)
+  - Docker
+  - AWS
   - GCP(1年未満)
   - kubernetes(1年未満)
   - IaC
-    - Ansible(4年)
+    - Ansible
     - CloudFormation(1年未満)
   
 - ログ/メトリクス
-  - ElasticSearch(2年)
-  - Kibana(2年)
-  - Fluentd(2年)
-  - NewRelic(2年)
-  - Zabbix(3年)
+  - ElasticSearch
+  - Kibana
+  - Fluentd
+  - NewRelic
+  - Zabbix
   - Datadog(1年未満)
 
 - CI/CD
-  - Jenkins(4年)
+  - Jenkins
   - CircleCI(1年未満)
-  - Flyway(2年)
-  - Capistrano(2年)
+  - Flyway
+  - Capistrano
+  
+- その他
+  - GitHub
+  - ZenHub
+  - JIRA
+  - Trello
+  - Bitbucket
+  - Slack
