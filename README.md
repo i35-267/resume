@@ -26,7 +26,7 @@
 ## 登壇歴
 |Data|Event|Slide|
 |---|---|---|
-|2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|coming soon...|
+|2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|[プロダクトをGrowthさせるためのデータ駆動戦略の基礎知識](https://speakerdeck.com/i35_267/hurotakutogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi)|
 |2019.01|[Regional Scrum Gathering® Tokyo 2019](https://2019.scrumgatheringtokyo.org/index.html)|[プロダクトオーナーとして『開発プロセス』を思考せよ！ ](https://speakerdeck.com/i35_267/hurotakutoonatosite-kai-fa-hurosesu-wosi-kao-seyo)|
 |2018.12|[Developers Boost～U30エンジニアの登竜門](https://event.shoeisha.jp/devboost/20181215)|[プロダクト成長のために『開発プロセス』 を思考せよ!<br>〜EBMを軸とした『プロダクトの見える化』と『ムダからの解放』を実践したインパクトについて〜](https://speakerdeck.com/i35_267/hurotakutocheng-chang-falsetameni-kai-fa-hurosesu-wosi-kao-seyo)|
 |2018.08|[カイゼン・ジャーニー・カンファレンス](https://devlove.doorkeeper.jp/events/76166)|[チームを『組成→安定→高速→最適化』に導くKAIZEN メソッド郡](https://speakerdeck.com/i35_267/timuwo-zu-cheng-nil-an-ding-nil-gao-su-nil-zui-shi-hua-nidao-kukaizen-mesotudojun)|
