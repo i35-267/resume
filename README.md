@@ -25,7 +25,7 @@
 ## 登壇歴
 |Data|Event|Slide|
 |---|---|---|
-|2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|comming soon...|
+|2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|coming soon...|
 |2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|[プロダクトをGrowthさせるためのデータ駆動戦略の基礎知識](https://speakerdeck.com/i35_267/hurotakutogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi)|
 |2019.01|[Regional Scrum Gathering® Tokyo 2019](https://2019.scrumgatheringtokyo.org/index.html)|[プロダクトオーナーとして『開発プロセス』を思考せよ！ ](https://speakerdeck.com/i35_267/hurotakutoonatosite-kai-fa-hurosesu-wosi-kao-seyo)|
 |2018.12|[Developers Boost～U30エンジニアの登竜門](https://event.shoeisha.jp/devboost/20181215)|[プロダクト成長のために『開発プロセス』 を思考せよ!<br>〜EBMを軸とした『プロダクトの見える化』と『ムダからの解放』を実践したインパクトについて〜](https://speakerdeck.com/i35_267/hurotakutocheng-chang-falsetameni-kai-fa-hurosesu-wosi-kao-seyo)|
@@ -37,9 +37,10 @@
 
 
 ## メディア
-- 【CodeZine】「ZenHub x GitHub」を軸としたアジャイルプロセスの作り方 (*近日公開*)
+- [【CodeZine】「ZenHub x GitHub」を軸としたアジャイルプロセスの作り方](https://codezine.jp/article/detail/11346)
 - [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
 ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
+- [DMMにおけるユーザーレビュー基盤の変革(データ駆動戦略を実現する『三種の神器』編)【Developers Summit 2019】](https://inside.dmm.com/entry/2019/02/19/devsumi-datadriven)
 - [【DMM inside】プロダクト成長のために『開発プロセス』を思考せよ！【Developers Boost 〜U30エンジニアの登竜門〜】](https://inside.dmm.com/entry/2018/12/26/devboost-devprocess)
 - [【DMM inside】DMMにおけるユーザーレビュー基盤の変革（プロダクトをGrowthさせるデータ駆動戦略編）](https://inside.dmm.com/entry/2018/12/10/data-driven-strategy)
 - [【DMM inside】『ZenHub x GitHub』を軸としたスクラム開発のプロセス設計](https://inside.dmm.com/entry/2018/09/05/zenhub-github)
