@@ -23,6 +23,8 @@
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 
 ## 登壇歴
+2018 ~ 
+
 |Data|Event|Slide|
 |---|---|---|
 |2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|coming soon...|
@@ -92,16 +94,16 @@
   - Bash
   - ShellScript
   - AWK
-  - PowerShell(1年未満)
+  - PowerShell
   
 - インフラ
   - Docker
   - AWS
-  - GCP(1年未満)
-  - kubernetes(1年未満)
+  - GCP
+  - kubernetes
   - IaC
     - Ansible
-    - CloudFormation(1年未満)
+    - CloudFormation
   
 - ログ/メトリクス
   - ElasticSearch
@@ -109,11 +111,11 @@
   - Fluentd
   - NewRelic
   - Zabbix
-  - Datadog(1年未満)
+  - Datadog
 
 - CI/CD
   - Jenkins
-  - CircleCI(1年未満)
+  - CircleCI
   - Flyway
   - Capistrano
   
