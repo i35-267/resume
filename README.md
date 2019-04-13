@@ -27,6 +27,7 @@
 
 |Data|Event|Slide|
 |---|---|---|
+|2019.04|社内:開発マネジメントMeetup|coming soon...|
 |2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|[Data-Driven x DevOps](https://speakerdeck.com/i35_267/data-driven-x-devops)|
 |2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|[プロダクトをGrowthさせるためのデータ駆動戦略の基礎知識](https://speakerdeck.com/i35_267/hurotakutogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi)|
 |2019.01|[Regional Scrum Gathering® Tokyo 2019](https://2019.scrumgatheringtokyo.org/index.html)|[プロダクトオーナーとして『開発プロセス』を思考せよ！ ](https://speakerdeck.com/i35_267/hurotakutoonatosite-kai-fa-hurosesu-wosi-kao-seyo)|
