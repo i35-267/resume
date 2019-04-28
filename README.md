@@ -25,7 +25,7 @@
 ## 登壇歴
 2018 ~ 
 
-|Data|Event|Slide|
+|Date|Event|Slide|
 |---|---|---|
 |2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|coming soon...|
 |2019.05|[DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|coming soon...|
@@ -42,7 +42,8 @@
 
 
 ## メディア
-- [【CodeZine】「ZenHub x GitHub」を軸としたアジャイルプロセスの作り方](https://codezine.jp/article/detail/11346)
+- [【DMM inside】「DMMにおけるユーザーレビュー基盤の変革(開発プロセス編)【DevOps Days Tokyo 2019】」](https://inside.dmm.com/entry/2019/04/26/devops-datadriven)
+- [【CodeZine】「ZenHub x GitHub」を軸としたアジャイルプロセスの作り方」](https://codezine.jp/article/detail/11346)
 - [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
 ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
 - [【DMM inside】DMMにおけるユーザーレビュー基盤の変革(データ駆動戦略を実現する『三種の神器』編)【Developers Summit 2019】](https://inside.dmm.com/entry/2019/02/19/devsumi-datadriven)
