@@ -67,17 +67,17 @@
 ## 言語・FW
 
 - Back-end
+  - Go
+    - echo
+  - Python
+    - Django
+    - Flask
   - Java
     - Spring MVC
   - PHP
     - ZendFramework
     - CakePHP
   - Scala
-  - Go
-    - echo
-  - Python
-    - Django
-    - Flask
   
 - Front-end
   - JavaScript
