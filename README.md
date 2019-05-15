@@ -31,7 +31,7 @@
 |---|---|---|
 |2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|coming soon...|
 |2019.05|[DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|coming soon...|
-|2019.04|社内:開発マネジメントMeetup|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru?slide=2)|
+|2019.04|社内:開発マネジメントMeetup|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru)|
 |2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|[Data-Driven x DevOps](https://speakerdeck.com/i35_267/data-driven-x-devops)|
 |2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|[プロダクトをGrowthさせるためのデータ駆動戦略の基礎知識](https://speakerdeck.com/i35_267/hurotakutogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi)|
 |2019.01|[Regional Scrum Gathering® Tokyo 2019](https://2019.scrumgatheringtokyo.org/index.html)|[プロダクトオーナーとして『開発プロセス』を思考せよ！ ](https://speakerdeck.com/i35_267/hurotakutoonatosite-kai-fa-hurosesu-wosi-kao-seyo)|
