@@ -44,7 +44,7 @@
 
 
 ## メディア・執筆
-- 【書籍】DMMを支えるデータ駆動戦略 ([執筆中 #DMMを支えるデータ駆動戦略](https://twitter.com/hashtag/DMM%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E6%88%A6%E7%95%A5?src=hash))
+- 【書籍】DMMを支えるデータ駆動戦略 ([執筆中] [#DMMを支えるデータ駆動戦略](https://twitter.com/hashtag/DMM%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E6%88%A6%E7%95%A5?src=hash))
 - [【DMM inside】 DMMにおけるユーザーレビュー基盤の変革(開発プロセス編)【DevOps Days Tokyo 2019】](https://inside.dmm.com/entry/2019/04/26/devops-datadriven)
 - [【CodeZine】 ZenHub x GitHub」を軸としたアジャイルプロセスの作り方](https://codezine.jp/article/detail/11346)
 - [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
