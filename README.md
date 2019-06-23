@@ -85,6 +85,10 @@
 - Front-end
   - JavaScript
   
+- Design
+  - GoF
+  - DDD
+  
 - Test
   - Junit
   - PHPUnit
