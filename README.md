@@ -31,7 +31,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
-|2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|coming soon...|
+|2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
 |2019.05|[DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
 |2019.04|社内:開発マネジメントMeetup|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru)|
 |2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|[Data-Driven x DevOps](https://speakerdeck.com/i35_267/data-driven-x-devops)|
