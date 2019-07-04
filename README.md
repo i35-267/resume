@@ -32,7 +32,7 @@
 |Date|Event|Slide|
 |---|---|---|
 |2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
-|2019.05|[主催 : DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
+|2019.05|[主催 : <br>DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
 |2019.04|社内:開発マネジメントMeetup|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru)|
 |2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|[Data-Driven x DevOps](https://speakerdeck.com/i35_267/data-driven-x-devops)|
 |2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|[プロダクトをGrowthさせるためのデータ駆動戦略の基礎知識](https://speakerdeck.com/i35_267/hurotakutogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi)|
@@ -47,6 +47,7 @@
 
 ## メディア・執筆
 - 【書籍】DMMを支えるデータ駆動戦略 (執筆中 [#DMMを支えるデータ駆動戦略](https://twitter.com/hashtag/DMM%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E6%88%A6%E7%95%A5?src=hash))
+- [【ログミー】 DMM.comプラットフォーム基盤の裏側ユーザーの回遊・リテンションを支える仕組み](https://logmi.jp/tech/articles/321466)
 - [【DMM inside】 DMMにおけるユーザーレビュー基盤の変革(開発プロセス編)【DevOps Days Tokyo 2019】](https://inside.dmm.com/entry/2019/04/26/devops-datadriven)
 - [【CodeZine】 ZenHub x GitHub」を軸としたアジャイルプロセスの作り方](https://codezine.jp/article/detail/11346)
 - [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
