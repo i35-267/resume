@@ -22,7 +22,7 @@
 ###### チーム求人 : 興味ある方、ぜひ連絡ください
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 
-#### スタートアップ2社
+#### スタートアップ2社 （副業）
 - ReadHub inc : PM + アドバイザー
 - Pavlov inc. : PM
 <br>
