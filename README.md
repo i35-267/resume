@@ -23,7 +23,7 @@
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 
 #### スタートアップ2社
-- ReadHub.inc アドバイザー
+- ReadHub.inc PM + アドバイザー
 - Pavlov Inc. PM
 <br>
 
