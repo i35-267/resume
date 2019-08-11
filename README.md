@@ -89,15 +89,20 @@
 - Front-end
   - JavaScript
   
-- Design
+- Design Pattern
   - GoF
   - DDD
-  
+ 
 - Test
   - Junit
   - PHPUnit
   - Codeception
   - Cucumber
+  
+- Desin Tools
+  - Figma
+  - Adobe Photoshop 
+  - Adobe Illustrator
   
 - ミドルウェア
   - Apache Tomcat
