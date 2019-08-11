@@ -22,9 +22,7 @@
 ###### チーム求人 : 興味ある方、ぜひ連絡ください
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 
-#### スタートアップ2社 （副業）
-- ReadHub inc. : PM + アドバイザー
-- Pavlov inc. : PM
+#### スタートアップ2社 PM （副業）
 <br>
 
 ## 登壇歴
@@ -46,19 +44,23 @@
 |2017.12|DMM開発AWARD|[VSM (Value Stream Mapping)を作ったら 開発プロセスが可視化されて一回の会議で 要件定義からリリースまでを268時間から40時間に リードタイムを短縮できることがわかった話 〜非エンジニアでもできるVSM作成〜](https://speakerdeck.com/i35_267/vsm-value-stream-mapping-wozuo-tutara-kai-fa-purosesugake-shi-hua-sarete-hui-falsehui-yi-de-yao-jian-ding-yi-kararirisumadewo268shi-jian-kara40shi-jian-ni-ridotaimuwoduan-suo-dekirukotogawakatutahua-fei-enziniademodekiruvsmzuo-cheng)|
 
 
-## メディア・執筆
+## 執筆
 - 【書籍】DMMを支えるデータ駆動戦略 (執筆中 [#DMMを支えるデータ駆動戦略](https://twitter.com/hashtag/DMM%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E6%88%A6%E7%95%A5?src=hash))
-- [【ログミー】 DMM.comプラットフォーム基盤の裏側ユーザーの回遊・リテンションを支える仕組み](https://logmi.jp/tech/articles/321466)
 - [【DMM inside】 DMMにおけるユーザーレビュー基盤の変革(開発プロセス編)【DevOps Days Tokyo 2019】](https://inside.dmm.com/entry/2019/04/26/devops-datadriven)
 - [【CodeZine】 ZenHub x GitHub」を軸としたアジャイルプロセスの作り方](https://codezine.jp/article/detail/11346)
-- [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
-ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
 - [【DMM inside】DMMにおけるユーザーレビュー基盤の変革(データ駆動戦略を実現する『三種の神器』編)【Developers Summit 2019】](https://inside.dmm.com/entry/2019/02/19/devsumi-datadriven)
 - [【DMM inside】プロダクト成長のために『開発プロセス』を思考せよ！【Developers Boost 〜U30エンジニアの登竜門〜】](https://inside.dmm.com/entry/2018/12/26/devboost-devprocess)
 - [【DMM inside】DMMにおけるユーザーレビュー基盤の変革（プロダクトをGrowthさせるデータ駆動戦略編）](https://inside.dmm.com/entry/2018/12/10/data-driven-strategy)
 - [【DMM inside】『ZenHub x GitHub』を軸としたスクラム開発のプロセス設計](https://inside.dmm.com/entry/2018/09/05/zenhub-github)
 - [【DMM inside】【SRE】サービス稼働率Downを防ぐ！『Disaster in recovery training』というアプローチ方法について](https://inside.dmm.com/entry/2018/08/07/disaster-in-recovery-training)
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
+
+## メディア
+- [【Geekly】【後編】合同会社DMM.com ～IT企業だけど製造業もやっちゃう「なんでもありな会社」～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview2/)
+- [【Geekly】【前編】合同会社DMM.com ～レンタルビデオ店からテックカンパニーへ～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview/)
+- [【ログミー】 DMM.comプラットフォーム基盤の裏側ユーザーの回遊・リテンションを支える仕組み](https://logmi.jp/tech/articles/321466)
+- [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
+ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
 
 ## 専門分野
 - Agile 
