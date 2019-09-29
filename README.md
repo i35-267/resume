@@ -22,6 +22,8 @@
 - リードナーチャリング領域のプロダクト群色々: 2018/7～
 ###### チーム求人 : 興味ある方、ぜひ連絡ください
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
+- [iOSエンジニア](https://dmm-corp.com/recruit/551)
+- [Androidエンジニア](https://dmm-corp.com/recruit/550)
 
 #### スタートアップ2社 PM （副業）
 <br>
