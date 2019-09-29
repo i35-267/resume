@@ -19,7 +19,7 @@
 プラットフォーム事業本部。2015年新卒入社。2017年度より、以下のプロダクトにおいてプロダクトオーナーを務める。
 - Product Owner : 2017~現在
 - Account(ID), Auth, Personalinfo: ～2018/7
-- Review, Push, LeadNurturing: 2018/7～
+- リードナーチャリング領域のプロダクト群色々: 2018/7～
 ###### チーム求人 : 興味ある方、ぜひ連絡ください
 - [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 
@@ -31,6 +31,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2019.9|[XP祭り 2019](https://xpjug.com/xp2019/)|[「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える](https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru)|
 |2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
 |2019.05|[主催 : <br>DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
 |2019.04|社内:開発マネジメントMeetup|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru)|
