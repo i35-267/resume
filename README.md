@@ -60,6 +60,7 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## メディア
+- [【CodeZine】あいまいな意思決定に別れを告げる、データ駆動戦略の「三種の神器」とは？ DMM.comのノウハウ【デブサミ2019】](https://codezine.jp/article/detail/11712)
 - [【Geekly】【後編】合同会社DMM.com ～IT企業だけど製造業もやっちゃう「なんでもありな会社」～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview2/)
 - [【Geekly】【前編】合同会社DMM.com ～レンタルビデオ店からテックカンパニーへ～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview/)
 - [【ログミー】 DMM.comプラットフォーム基盤の裏側ユーザーの回遊・リテンションを支える仕組み](https://logmi.jp/tech/articles/321466)
