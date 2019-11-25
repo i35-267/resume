@@ -33,6 +33,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2019.12|[TECH PLAY- データ活用、支える技術と生まれるビジネス 〜プロダクトグロースを支えるデータとの向き合い方〜](https://techplay.jp/event/760252)|coming soon|
 |2019.09|[XP祭り 2019](https://xpjug.com/xp2019/)|[「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える](https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru)|
 |2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
 |2019.05|[主催 : <br>DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
