@@ -18,13 +18,12 @@
 
 プラットフォーム事業本部。2015年新卒入社。<br>
 2017年度より、以下のプロダクトにおいてプロダクトオーナーを務める。
-- PO(Product Owner) : 2017~現在
 - Account(ID), Auth, Personalinfo: ～2018/7
-- リードナーチャリング領域のプロダクト群色々: 2018/7～
-###### チーム求人 : 興味ある方、ぜひ連絡ください
-- [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
+- リードナーチャリング領域のプロダクト群諸々: 2018/7～
+###### 管轄チーム求人 : 興味ある方、ぜひ連絡ください
 - [iOSエンジニア](https://dmm-corp.com/recruit/551)
 - [Androidエンジニア](https://dmm-corp.com/recruit/550)
+- [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
 
 #### スタートアップ2社 PM （副業）
 <br>
