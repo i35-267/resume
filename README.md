@@ -16,7 +16,7 @@
 ## 所属
 #### DMM.com プラットフォーム事業本部 プロダクトオーナー
 プラットフォーム事業本部 所属 2015年新卒入社<br>
-DMMにおけるアカウント(ID)、認証(Auth) 周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。現在はプラットフォーム基盤のネイティブアプリ新規立ち上げ段階のプロダクトオーナーにも従事
+DMMにおけるアカウント(ID)、認証(Auth) 周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。現在はプラットフォーム基盤におけるネイティブアプリの新規立ち上げ段階のプロダクトオーナーにも従事
 
 ###### 管轄チーム求人 : 興味ある方、ぜひ連絡ください
 - [iOSエンジニア](https://dmm-corp.com/recruit/551)
@@ -49,6 +49,7 @@ DMMにおけるアカウント(ID)、認証(Auth) 周りのプロダクトオー
 
 ## 執筆
 - 【書籍】DMMを支えるデータ駆動戦略 (執筆中 [#DMMを支えるデータ駆動戦略](https://twitter.com/hashtag/DMM%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E6%88%A6%E7%95%A5?src=hash))
+- [【DMM inside】DMMのリアルな開発現場をリサーチ！ 第3回 開発マネジメント勉強会開催レポート](https://inside.dmm.com/entry/2019/11/27/management-meetup-3)
 - [【DMM inside】 DMMにおけるユーザーレビュー基盤の変革(開発プロセス編)【DevOps Days Tokyo 2019】](https://inside.dmm.com/entry/2019/04/26/devops-datadriven)
 - [【CodeZine】 ZenHub x GitHub」を軸としたアジャイルプロセスの作り方](https://codezine.jp/article/detail/11346)
 - [【DMM inside】DMMにおけるユーザーレビュー基盤の変革(データ駆動戦略を実現する『三種の神器』編)【Developers Summit 2019】](https://inside.dmm.com/entry/2019/02/19/devsumi-datadriven)
