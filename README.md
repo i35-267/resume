@@ -16,7 +16,7 @@
 ## 所属
 #### DMM.com プラットフォーム事業本部 プロダクトオーナー
 プラットフォーム事業本部 所属 2015年新卒入社<br>
-DMMにおけるアカウント(ID)、認証(Auth) 周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。現在はプラットフォーム基盤におけるネイティブアプリの新規立ち上げ段階のプロダクトオーナーにも従事
+2017年より、DMMにおけるアカウント(ID)、認証(Auth) 周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。現在はプラットフォーム基盤におけるネイティブアプリの新規立ち上げ段階のプロダクトオーナーにも従事
 
 ###### 管轄チーム求人 : 興味ある方、ぜひ連絡ください
 - [iOSエンジニア](https://dmm-corp.com/recruit/551)
@@ -31,7 +31,7 @@ DMMにおけるアカウント(ID)、認証(Auth) 周りのプロダクトオー
 
 |Date|Event|Slide|
 |---|---|---|
-|2019.12|[TECH PLAY- データ活用、支える技術と生まれるビジネス 〜プロダクトグロースを支えるデータとの向き合い方〜](https://techplay.jp/event/760252)|coming soon|
+|2019.12|[TECH PLAY- データ活用、支える技術と生まれるビジネス 〜プロダクトグロースを支えるデータとの向き合い方〜](https://techplay.jp/event/760252)|[DMMにおける「事業」と「データ」(https://speakerdeck.com/i35_267/business-and-data-at-dmm)]|
 |2019.09|[XP祭り 2019](https://xpjug.com/xp2019/)|[「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える](https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru)|
 |2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
 |2019.05|[主催 : <br>DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
