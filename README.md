@@ -21,7 +21,7 @@
 ###### 管轄チーム求人 : 興味ある方、ぜひ連絡ください
 - [iOSエンジニア](https://dmm-corp.com/recruit/551)
 - [Androidエンジニア](https://dmm-corp.com/recruit/550)
-- [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/engineer/7556)
+- [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/347)
 
 #### スタートアップ2社 PM （副業）
 <br>
