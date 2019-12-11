@@ -35,7 +35,7 @@
 |2019.09|[XP祭り 2019](https://xpjug.com/xp2019/)|[「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える](https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru)|
 |2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
 |2019.05|[主催 : <br>DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
-|2019.04|社内:開発マネジメントMeetup|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru)|
+|2019.04|[社内:開発マネジメントMeetup](https://inside.dmm.com/entry/2019/07/30/management-meetup)|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru)|
 |2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|[Data-Driven x DevOps](https://speakerdeck.com/i35_267/data-driven-x-devops)|
 |2019.02|[Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/)|[プロダクトをGrowthさせるためのデータ駆動戦略の基礎知識](https://speakerdeck.com/i35_267/hurotakutogrowthsaserutetaqu-dong-zhan-lue-falseji-chu-zhi-shi)|
 |2019.01|[Regional Scrum Gathering® Tokyo 2019](https://2019.scrumgatheringtokyo.org/index.html)|[プロダクトオーナーとして『開発プロセス』を思考せよ！ ](https://speakerdeck.com/i35_267/hurotakutoonatosite-kai-fa-hurosesu-wosi-kao-seyo)|
