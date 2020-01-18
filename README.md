@@ -60,6 +60,8 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## メディア
+- [【エンジニアtype】人気企業３社が語る今欲しいエンジニアの条件「2020年以降のエンジニアに最も必要なのは“技術以外”のスキル」【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12270)
+- [【エンジニアtype】令和の“ドラフト１位エンジニア”は誰だ！？ 人気企業３社が本気で考えた新規事業立ち上げチームに欲しい人【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12249)
 - [【CodeZine】あいまいな意思決定に別れを告げる、データ駆動戦略の「三種の神器」とは？ DMM.comのノウハウ【デブサミ2019】](https://codezine.jp/article/detail/11712)
 - [【Geekly】【後編】合同会社DMM.com ～IT企業だけど製造業もやっちゃう「なんでもありな会社」～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview2/)
 - [【Geekly】【前編】合同会社DMM.com ～レンタルビデオ店からテックカンパニーへ～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview/)
