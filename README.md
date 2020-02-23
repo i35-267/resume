@@ -30,6 +30,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2020.02|[AgilePBL 祭り](https://agilepbl.connpass.com/)|[DMM x Agile](https://speakerdeck.com/i35_267/dmm-x-agile)|
 |2020.01|[主催 : DMM.go #1](https://dmm.connpass.com/event/157222/)|[DMM.go #1を開催しました！](https://inside.dmm.com/entry/2020/02/03/dmmgo-1)|
 |2019.12|[TECH PLAY- データ活用、支える技術と生まれるビジネス 〜プロダクトグロースを支えるデータとの向き合い方〜](https://techplay.jp/event/760252)|[DMMにおける「事業」と「データ」](https://speakerdeck.com/i35_267/business-and-data-at-dmm)|
 |2019.09|[XP祭り 2019](https://xpjug.com/xp2019/)|[「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える](https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru)|
@@ -74,8 +75,8 @@
 - Agile 
   - Scrum, XP
   - Certified Scrum Product Owner®
-- Lean
 - Data-Driven
+- Lean
 - Agile-Marketing
 - DevOps
 
