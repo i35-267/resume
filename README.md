@@ -16,7 +16,7 @@
 ## 所属
 #### DMM.com プラットフォーム事業本部 総合トップ開発部 部長 & プロダクトオーナー
 プラットフォーム事業本部 所属 2015年新卒入社<br>
-DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオーナーを経て、 2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの総合トップなどを管轄する総合トップ開発部の部長を務める。 現在はアプリプラットフォーム基盤の立ち上げ段階のプロダクトオーナーにも従事。
+DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオーナーを経て、 2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在はアプリプラットフォーム基盤の立ち上げ段階のプロダクトオーナーにも従事。
 
 ###### 管轄チーム求人 : 興味ある方、ぜひ連絡ください
 - [iOSエンジニア](https://dmm-corp.com/recruit/551)
@@ -31,7 +31,7 @@ DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオー�
 |Date|Event|Slide|
 |---|---|---|
 |2020.04|[DevOpsDaysTokyo2020](https://www.devopsdaystokyo.org/)|※コロナの影響による中止<br>[「失敗できる」を作り出すと開発組織は加速する](https://confengine.com/devopsdays-tokyo-2020/proposal/14074)|
-|2020.03|[【学生限定】役員と先輩社員が語る！「IT企業で生きぬく人材とは」](https://dmm.connpass.com/event/166998/)|comming soon...|
+|2020.03|[【学生限定】役員と先輩社員が語る！「IT企業で生きぬく人材とは」](https://dmm.connpass.com/event/166998/)|[エンジニアが事業を作る強み](https://speakerdeck.com/i35_267/enziniagashi-ye-wotukuruqiang-mi)|
 |2020.02|[AgilePBL 祭り](https://agilepbl.connpass.com/)|[DMM x Agile](https://speakerdeck.com/i35_267/dmm-x-agile)|
 |2020.01|[主催 : DMM.go #1](https://dmm.connpass.com/event/157222/)|[DMM.go #1を開催しました！](https://inside.dmm.com/entry/2020/02/03/dmmgo-1)|
 |2019.12|[TECH PLAY- データ活用、支える技術と生まれるビジネス 〜プロダクトグロースを支えるデータとの向き合い方〜](https://techplay.jp/event/760252)|[DMMにおける「事業」と「データ」](https://speakerdeck.com/i35_267/business-and-data-at-dmm)|
