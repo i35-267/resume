@@ -23,7 +23,7 @@ DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオー�
 - [Androidエンジニア / 総合トップ開発部](https://dmm-corp.com/recruit/677)
 - [サーバーサイドエンジニア（Go x AWS） / 総合トップ開発部](https://dmm-corp.com/recruit/347)
 
-#### スタートアップ2社 PM （副業）
+#### スタートアップ2社 PM / アジャイルコーチ （副業）
 <br>
 
 ## 登壇 / 主催
