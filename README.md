@@ -19,9 +19,9 @@
 DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオーナーを経て、 2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在はアプリプラットフォーム基盤の立ち上げ段階のプロダクトオーナーにも従事。
 
 ###### 管轄チーム求人 : 興味ある方、ぜひ連絡ください
-- [iOSエンジニア](https://dmm-corp.com/recruit/551)
-- [Androidエンジニア](https://dmm-corp.com/recruit/550)
-- [ユーザーレビュー基盤エンジニア](https://dmm-corp.com/recruit/347)
+- [iOSエンジニア / 総合トップ開発部](https://dmm-corp.com/recruit/678)
+- [Androidエンジニア / 総合トップ開発部](https://dmm-corp.com/recruit/677)
+- [サーバーサイドエンジニア（Go x AWS） / 総合トップ開発部](https://dmm-corp.com/recruit/347)
 
 #### スタートアップ2社 PM （副業）
 <br>
