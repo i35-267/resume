@@ -5,7 +5,7 @@
 |---|---|
 |Name|Masato Ishigaki / 石垣 雅人|
 |Twitter|[@i35_267](https://twitter.com/i35_267)|
-|Blog|[i35-267 / Media](https://medium.com/i35-267) 主な活動場所|
+|Blog|[i35-267 / Media](https://medium.com/i35-267)|
 |SpeakerDeck|[i35.267 - SpeakerDeck](https://speakerdeck.com/i35_267)|
 |Qiita|[@i35_267 - Qiita](https://qiita.com/i35_267)|
 |GitHub|[i35-267 - GitHub](https://github.com/i35-267)|
