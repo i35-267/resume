@@ -56,7 +56,7 @@ DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオー�
 
 
 ## 執筆
-- 【書籍】DMMを支えるデータ駆動戦略 (執筆中 [#DMMを支えるデータ駆動戦略](https://twitter.com/hashtag/DMM%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E6%88%A6%E7%95%A5?src=hash))
+- [【書籍】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
 - [【Offers】プロジェクトマネージャーの副業事情。実際の案件やリモート時の注意点について](https://offers.jp/media/sidejob/a_1744)
 - [【DMM inside】DMM.go #2をオンライン開催しました！〜オンライン開催のノウハウもご紹介〜](https://inside.dmm.com/entry/2020/05/20/dmmgo-2)
 - [【DMM inside】DMM.go #1を開催しました！](https://inside.dmm.com/entry/2020/02/03/dmmgo-1)
