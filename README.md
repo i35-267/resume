@@ -14,8 +14,9 @@
 
 
 ## 所属
-#### 合同会社DMM.com <br> 総合トップ開発部 部長 / アプリプラットフォーム基盤 プロダクトオーナー
-プラットフォーム事業本部 所属 2015年 エンジニア新卒入社<br>
+#### [合同会社DMM.com](https://dmm-corp.com/business/)  
+総合トップ開発部 部長 / アプリプラットフォーム基盤 プロダクトオーナー<br>
+2015年 エンジニア新卒入社<br>
 DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオーナーを経て、 2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在はアプリプラットフォーム基盤の立ち上げ段階のプロダクトオーナーにも従事。<br>
 
 [DMM.go](https://dmm.connpass.com/event/157222/) 主催
@@ -27,6 +28,10 @@ DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオー�
 - [モバイルデザイナー / 総合トップ開発部](https://dmm-corp.com/recruit/728)
 
 #### 副業 : スタートアップ2社 アジャイルコーチ 
+<br>
+
+## 著書
+- [【書籍】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
 <br>
 
 ## 登壇 / 主催
@@ -56,7 +61,6 @@ DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオー�
 
 
 ## 執筆
-- [【書籍】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
 - [【Offers】プロジェクトマネージャーの副業事情。実際の案件やリモート時の注意点について](https://offers.jp/media/sidejob/a_1744)
 - [【DMM inside】DMM.go #2をオンライン開催しました！〜オンライン開催のノウハウもご紹介〜](https://inside.dmm.com/entry/2020/05/20/dmmgo-2)
 - [【DMM inside】DMM.go #1を開催しました！](https://inside.dmm.com/entry/2020/02/03/dmmgo-1)
