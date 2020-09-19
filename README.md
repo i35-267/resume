@@ -88,6 +88,7 @@ DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオー�
   - Scrum, XP
   - Certified Scrum Product Owner®
 - Data-Driven
+- Data-Management
 - Lean
 - Agile-Marketing
 - DevOps
