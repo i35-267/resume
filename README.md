@@ -38,7 +38,7 @@ DMMにおけるAccount(ID)、Auth、Personalinfo 周りのプロダクトオー�
 |Date|Event|Slide|
 |---|---|---|
 |2020.09|[iOSDC 2020](https://iosdc.jp/2020/)|[組織構造の力学を操作して、アプリ開発プロセスを最大化させる](https://speakerdeck.com/i35_267/organizational-structure-to-maximize-the-development-process)|
-|2020.09|[XP祭り 2020](http://xpjug.com/xp2020/)|["群れる"アジャイル](https://speakerdeck.com/i35_267/swarming-agile)]|
+|2020.09|[XP祭り 2020](http://xpjug.com/xp2020/)|["群れる"アジャイル](https://speakerdeck.com/i35_267/swarming-agile)|
 |2020.04|[DevOpsDaysTokyo2020](https://www.devopsdaystokyo.org/)|※コロナの影響による中止<br>[「失敗できる」を作り出すと開発組織は加速する](https://confengine.com/devopsdays-tokyo-2020/proposal/14074)|
 |2020.03|[【学生限定】役員と先輩社員が語る！「IT企業で生きぬく人材とは」](https://dmm.connpass.com/event/166998/)|[エンジニアが事業を作る強み](https://speakerdeck.com/i35_267/enziniagashi-ye-wotukuruqiang-mi)|
 |2020.02|[AgilePBL 祭り](https://agilepbl.connpass.com/)|[DMM x Agile](https://speakerdeck.com/i35_267/dmm-x-agile)|
