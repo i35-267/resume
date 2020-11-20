@@ -37,6 +37,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2020.11|[『DMM.comを支えるデータ駆動戦略』出版記念イベント！【オンライン】](https://dmm.connpass.com/event/193716/)|[1時間で徹底解説！『DMM.comを支えるデータ駆動戦略』出版記念イベント！ / Data- Strategy](https://speakerdeck.com/i35_267/data-strategy)|
 |2020.09|[iOSDC 2020](https://iosdc.jp/2020/)|[組織構造の力学を操作して、アプリ開発プロセスを最大化させる](https://speakerdeck.com/i35_267/organizational-structure-to-maximize-the-development-process)|
 |2020.09|[XP祭り 2020](http://xpjug.com/xp2020/)|["群れる"アジャイル](https://speakerdeck.com/i35_267/swarming-agile)|
 |2020.04|[DevOpsDaysTokyo2020](https://www.devopsdaystokyo.org/)|※コロナの影響による中止<br>[「失敗できる」を作り出すと開発組織は加速する](https://confengine.com/devopsdays-tokyo-2020/proposal/14074)|
