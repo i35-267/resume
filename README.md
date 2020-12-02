@@ -37,6 +37,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2020.11|[DMM meetup#22〜DMMのプラットフォームを支える総合トップとDMM PointClub〜](https://dmm.connpass.com/event/195179/)|[DMM経済圏の確立を目指す上でのパーソナライズ戦略とクロスユース戦略](https://speakerdeck.com/i35_267/dmm-economic-zone)|
 |2020.11|[『DMM.comを支えるデータ駆動戦略』出版記念イベント！【オンライン】](https://dmm.connpass.com/event/193716/)|[1時間で徹底解説！『DMM.comを支えるデータ駆動戦略』出版記念イベント！ / Data- Strategy](https://speakerdeck.com/i35_267/data-strategy)|
 |2020.09|[iOSDC 2020](https://iosdc.jp/2020/)|[組織構造の力学を操作して、アプリ開発プロセスを最大化させる](https://speakerdeck.com/i35_267/organizational-structure-to-maximize-the-development-process)|
 |2020.09|[XP祭り 2020](http://xpjug.com/xp2020/)|["群れる"アジャイル](https://speakerdeck.com/i35_267/swarming-agile)|
