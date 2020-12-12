@@ -37,6 +37,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2020.12| [Developers Boost](https://event.shoeisha.jp/devboost/20201212)|[チームを”群れ”として観察すれば、 アジャイル開発はもっとうまくいく](https://speakerdeck.com/i35_267/swarming-agile-2dcc0791-7bc9-40b3-88be-cebc5181e292)|
 |2020.11|[DMM meetup#22〜DMMのプラットフォームを支える総合トップとDMM PointClub〜](https://dmm.connpass.com/event/195179/)|[DMM経済圏の確立を目指す上でのパーソナライズ戦略とクロスユース戦略](https://speakerdeck.com/i35_267/dmm-economic-zone)|
 |2020.11|[『DMM.comを支えるデータ駆動戦略』出版記念イベント！【オンライン】](https://dmm.connpass.com/event/193716/)|[1時間で徹底解説！『DMM.comを支えるデータ駆動戦略』出版記念イベント！ / Data- Strategy](https://speakerdeck.com/i35_267/data-strategy)|
 |2020.09|[iOSDC 2020](https://iosdc.jp/2020/)|[組織構造の力学を操作して、アプリ開発プロセスを最大化させる](https://speakerdeck.com/i35_267/organizational-structure-to-maximize-the-development-process)|
