@@ -10,6 +10,7 @@
 |Qiita|https://qiita.com/i35_267|
 |GitHub|https://github.com/i35-267|
 |Linkedin| https://www.linkedin.com/in/ishigaki-masato-85b603168/|
+|Jobpicks | https://job.newspicks.com/role-models/190?job-id=40 |
 |Offers|https://offers.jp/a/users/cd79c2d59bb76d0c2854746cce61537869031e664f4e75f36b1a95b328673a7c|
 |Contact|i35.267.m@gmail.com|
 
