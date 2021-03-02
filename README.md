@@ -1,5 +1,5 @@
 # Resume
-<img width="127" alt="2018-10-13 13 52 35" src="https://user-images.githubusercontent.com/40228637/57307977-74900b00-7120-11e9-9fc0-afd71b922208.JPG">
+<img width="127" alt="2018-10-13 13 52 35" src="https://user-images.githubusercontent.com/40228637/109680186-9d1fa980-7bbf-11eb-981f-dfb6347ae6cd.jpg">
 
 |key|value|
 |---|---|
