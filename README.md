@@ -18,7 +18,7 @@
 
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
-総合トップ開発部 部長 / アプリプラットフォーム基盤 プロダクトオーナー<br>
+総合トップ開発部 部長 / DMM PointClub プロダクトマネージャ<br>
 2015年 エンジニア新卒入社<br>
 2017年より、DMMにおける3000万のアカウント(ID)、認証(Auth) のバックエンド周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在DMM PointClubのプロダクトマネージャーにも遵守。<br>
 [DMM.go](https://dmm.connpass.com/event/157222/) , [DevLead](https://dmm.connpass.com/event/194535/)主催
@@ -40,6 +40,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2021.04| 東京大学 講義 「ICTと産業」|[事業とエンジニアリングを繋ぐ力学](https://speakerdeck.com/i35_267/shi-ye-toenziniaringuwoxi-guli-xue)|
 |2021.01| [ProductZineウェビナー「データを武器にプロダクトの不確実性と戦う」](https://prtimes.jp/main/html/rd/p/000000047.000034873.html)|[データを武器にプロダクトの不確実性と戦う](https://speakerdeck.com/i35_267/datadriven-development)|
 |2020.12| [Developers Boost 2020](https://event.shoeisha.jp/devboost/20201212)|[チームを”群れ”として観察すれば、 アジャイル開発はもっとうまくいく](https://speakerdeck.com/i35_267/swarming-agile-2dcc0791-7bc9-40b3-88be-cebc5181e292)|
 |2020.11|[DMM meetup#22〜DMMのプラットフォームを支える総合トップとDMM PointClub〜](https://dmm.connpass.com/event/195179/)|[DMM経済圏の確立を目指す上でのパーソナライズ戦略とクロスユース戦略](https://speakerdeck.com/i35_267/dmm-economic-zone)|
