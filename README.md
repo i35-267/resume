@@ -18,16 +18,13 @@
 
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
-総合トップ開発部 部長 / DMM PointClub プロダクトマネージャ<br>
+総合トップ開発部 部長 / DMM PointClub プロダクトマネージャー<br>
 2015年 エンジニア新卒入社<br>
 2017年より、DMMにおける3000万のアカウント(ID)、認証(Auth) のバックエンド周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在DMM PointClubのプロダクトマネージャーにも遵守。<br>
 [DMM.go](https://dmm.connpass.com/event/157222/) , [DevLead](https://dmm.connpass.com/event/194535/)主催
 
-###### 管轄チーム求人 : 興味ある方、ぜひ連絡ください
-- [iOSエンジニア / 総合トップ開発部](https://dmm-corp.com/recruit/678)
-- [Androidエンジニア / 総合トップ開発部](https://dmm-corp.com/recruit/677)
-- [サーバーサイドエンジニア（Go x AWS） / 総合トップ開発部](https://dmm-corp.com/recruit/347)
-- [モバイルデザイナー / 総合トップ開発部](https://dmm-corp.com/recruit/728)
+###### 担当領域
+- 事業戦略 / 財務諸表・予算管理（PL） / プロダクトマネジメント / ピープルマネジメント（1on1、評価、育成、etc..） / プロジェクトマネジメント
 
 #### 副業 : スタートアップを中心にアジャイルコーチ、プロジェクトマネジメント
 <br>
