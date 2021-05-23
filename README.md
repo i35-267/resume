@@ -150,7 +150,7 @@
   - Docker
   - AWS
   - GCP
-  - kubernetes
+    - BigQuery
   - IaC
     - Ansible
     - CloudFormation
