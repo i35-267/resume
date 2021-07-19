@@ -18,13 +18,13 @@
 
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
-総合トップ開発部 部長 / DMM PointClub 事業責任者<br>
+総合トップ開発部 部長 / DMMポイントクラブ 事業責任者 / VPoE室<br>
 エンジニア新卒入社<br>
 2017年より、DMMにおける3000万のアカウント(ID)、認証(Auth) のバックエンド周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在、DMM PointClubの事業責任者にも遵守。<br>
 [DMM.go](https://dmm.connpass.com/event/157222/) , [DevLead](https://dmm.connpass.com/event/194535/)主催
 
 ###### 担当領域
-- 事業戦略 / 財務諸表・予算管理（PL） / プロダクトマネジメント / ピープルマネジメント（1on1、評価、育成、etc..） / プロジェクトマネジメント（アジャイル）
+- 事業戦略 / 財務諸表・予算管理（PL） / プロダクトマネジメント / ピープルマネジメント（1on1、評価、育成） / プロジェクトマネジメント（アジャイル、リーン）
 
 #### 副業 : スタートアップを中心にアジャイルコーチ、プロジェクトマネジメント
 <br>
@@ -79,6 +79,7 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## メディア
+- [【ProductZine】「データ」は不確実性と戦う武器――事業を観測しながら改善する、プロダクト開発の仕組み作り](https://productzine.jp/article/detail/180) 
 - [【IT Search】DMM.comが実践する、データに基づく「Scientific」な組織づくり](https://news.mynavi.jp/itsearch/article/solution/5189)
 - [【エンジニアtype】人気企業３社が語る今欲しいエンジニアの条件「2020年以降のエンジニアに最も必要なのは“技術以外”のスキル」【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12270)
 - [【エンジニアtype】令和の“ドラフト１位エンジニア”は誰だ！？ 人気企業３社が本気で考えた新規事業立ち上げチームに欲しい人【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12249)
