@@ -18,24 +18,27 @@
 
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
-総合トップ開発部 部長 / DMMポイントクラブ 事業責任者 / VPoE室<br>
+プラットフォーム事業本部 メンバーシップサービス部 部長 / DMMポイントクラブ事業責任者 / VPoE室<br>
 エンジニア新卒入社<br>
-2017年より、DMMにおけるアカウント(ID)、認証(Auth) のバックエンド周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在、DMMポイントクラブの事業責任者にも遵守。<br>
+2017年より、DMMにおけるアカウント(ID)、認証(Auth) のバックエンド周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 現在は、DMMポイントクラブの立ち上げやID・認証を司るメンバーシップサービス部の部長、DMM全体のエンジニア組織課題（採用・育成・評価・露出等）を解決する組織である、VPoE室を兼務している。
 
 
 ###### 担当領域
 - 事業戦略 / 財務諸表・予算管理（PL） / プロダクトマネジメント / ピープルマネジメント（1on1、評価、育成） / プロジェクトマネジメント（アジャイル、リーン）
 
-#### 副業 : スタートアップを中心にアジャイルコーチ、プロジェクトマネジメント
-
-
-##### コミュニティー
+#### コミュニティー
 - [DMM.go](https://dmm.connpass.com/event/157222/) 主催
 - [DevLead by DMM Group](https://dmm.connpass.com/event/194535/)主催
+
+#### 副業 : 
+スタートアップを中心にアジャイルコーチ、プロジェクトマネジメント、採用アシスト
+
 <br>
 
 ## 著書
 - [【書籍】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
+<img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">
+
 <br>
 
 ## 登壇 / 主催
@@ -100,86 +103,7 @@
   - Scrum, XP
   - Certified Scrum Product Owner®
 - Data-Driven
-- Data-Management
+- KPI-Management
 - Lean
 - Agile-Marketing
 - DevOps
-
-## 言語・FW
-
-- Back-end
-  - Go
-    - echo
-  - Python
-    - Django
-    - Flask
-  - Java
-    - Spring MVC
-  - PHP
-    - ZendFramework
-    - CakePHP
-  - Scala
-  
-- Front-end
-  - JavaScript
-  
-- Design Pattern
-  - GoF
-  - DDD
- 
-- Test
-  - Junit
-  - PHPUnit
-  - Codeception
-  - Cucumber
-  
-- Desin Tools
-  - Figma
-  - Adobe Photoshop 
-  - Adobe Illustrator
-  
-- ミドルウェア
-  - Apache Tomcat
-  - Nginx
-  - MySQL
-  - Couchbase
-  - Cassandra
-  
-- サーバーサイド
-  - Linux
-  - Bash
-  - ShellScript
-  - AWK
-  - PowerShell
-  
-- インフラ
-  - Docker
-  - AWS
-  - GCP
-    - BigQuery
-  - IaC
-    - Ansible
-    - CloudFormation
-  
-- ログ/メトリクス
-  - ElasticSearch
-  - Kibana
-  - Fluentd
-  - NewRelic
-  - Zabbix
-  - Datadog
-
-- CI/CD
-  - Jenkins
-  - CircleCI
-  - Flyway
-  - Capistrano
-  
-- その他
-  - GitHub
-  - ZenHub
-  - Re:dash
-  - JIRA
-  - Trello
-  - Bitbucket
-  - Slack
