@@ -26,7 +26,11 @@
 
 ###### 担当領域
 - 事業戦略 / 財務諸表・予算管理（PL） / KPIマネジメント / 定量データ分析 / 仮説検証（施策立案）
-- プロダクトマネジメント / ピープルマネジメント（組織設計、1on1、評価、育成） / プロジェクトマネジメント（アジャイル、リーン）
+- 業務比重 : <br>
+      1. ProductManagement（予算、事業戦略、KPI、データ分析、仮説立案）<br>
+      3. HumanManagement（組織設計、1on1、評価、育成、採用）<br>
+      4. ProjectManagement（アジャイル、リーン）<br>
+      5. Technology Management（アーキテクチャ、サーバーコスト、マイクロサービスとスモールチーム）<br>
 
 #### コミュニティー
 - [DMM.go](https://dmm.connpass.com/event/157222/) 主催
