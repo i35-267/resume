@@ -51,6 +51,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2021.09| [DevLead by DMM #4 〜DMMが実現する“Scientific”への挑戦と失敗編〜](https://dmm.connpass.com/event/224908/)|[【動画】仮説と実験主義への挑戦と失敗〜](https://youtu.be/EKNY0g6sAyM?t=754) <br> [【スライド】仮説と実験主義への挑戦と失敗〜](https://speakerdeck.com/i35_267/765dd721-09f9-4c71-8b4e-0b8a9d325181)|
 |2021.04| 東京大学 講義 「ICTと産業」|[事業とエンジニアリングを繋ぐ力学](https://speakerdeck.com/i35_267/shi-ye-toenziniaringuwoxi-guli-xue)|
 |2021.01| [ProductZineウェビナー「データを武器にプロダクトの不確実性と戦う」](https://prtimes.jp/main/html/rd/p/000000047.000034873.html)|[データを武器にプロダクトの不確実性と戦う](https://speakerdeck.com/i35_267/datadriven-development)|
 |2020.12| [Developers Boost 2020](https://event.shoeisha.jp/devboost/20201212)|[チームを”群れ”として観察すれば、 アジャイル開発はもっとうまくいく](https://speakerdeck.com/i35_267/swarming-agile-2dcc0791-7bc9-40b3-88be-cebc5181e292)|
