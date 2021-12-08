@@ -47,6 +47,11 @@
 
 <br>
 
+## 連載
+- [【ProductZine】スモールチームが武器になる時代へ ～小さい集団×Nがプロダクト開発にもたらしたもの～](https://productzine.jp/article/corner/42)
+
+<br>
+
 ## 登壇 / 主催
 
 |Date|Event|Slide|
@@ -80,6 +85,7 @@
 
 
 ## 執筆
+- [【DMM inside】事業をスケールさせるエンジニアリング〜技術のコモディティ化にエンジニアは敗北する〜](https://inside.dmm.com/entry/2021/12/01/connecting-business-engineering)
 - [【Offers】プロジェクトマネージャーの副業事情。実際の案件やリモート時の注意点について](https://offers.jp/media/sidejob/a_1744)
 - [【DMM inside】DMM.go #2をオンライン開催しました！〜オンライン開催のノウハウもご紹介〜](https://inside.dmm.com/entry/2020/05/20/dmmgo-2)
 - [【DMM inside】DMM.go #1を開催しました！](https://inside.dmm.com/entry/2020/02/03/dmmgo-1)
