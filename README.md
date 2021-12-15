@@ -20,7 +20,6 @@
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
 プラットフォーム事業本部 メンバーシップサービス部 部長 / DMMポイントクラブ事業責任者 / VPoE室<br>
 エンジニア新卒入社<br>
-2017年より、DMMにおけるアカウント(ID)、認証(Auth) のバックエンド周りのプロダクトオーナーを経て、2018年7月にリードナーチャリング領域を強化するチームの立ち上げを行う。2020年3月には、DMMの入り口である[総合トップ](https://www.dmm.com/)などを管轄する総合トップ開発部の部長を務める。 
 現在は、DMMポイントクラブの立ち上げからグロース、3500万会員のID・個人情報管理、CSプラットフォーム（カスタマーサポート）を司るメンバーシップサービス部の部長、DMM全体のエンジニア組織課題（採用・育成・評価・露出等）を解決する組織である、VPoE室を兼務している。
 
 
@@ -41,7 +40,7 @@
 
 <br>
 
-## 著書
+## 著書 / 連載
 - [【書籍】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
 <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">
 
@@ -56,6 +55,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2021.12| 東京大学大学院 IIS Lab (東京大学矢谷研究室) 【融合情報学特別講義Ⅱ】 | [【融合情報学特別講義Ⅱ】事業とエンジニアリングを繋ぐ力学 - 東京大学 大学院講義](https://speakerdeck.com/i35_267/connecting-engineering-business)
 |2021.09| [DevLead by DMM #4 〜DMMが実現する“Scientific”への挑戦と失敗編〜](https://dmm.connpass.com/event/224908/)|[【動画】仮説と実験主義への挑戦と失敗〜](https://youtu.be/EKNY0g6sAyM?t=754) <br> [【スライド】仮説と実験主義への挑戦と失敗〜](https://speakerdeck.com/i35_267/765dd721-09f9-4c71-8b4e-0b8a9d325181)|
 |2021.04| 東京大学 講義 「ICTと産業」|[事業とエンジニアリングを繋ぐ力学](https://speakerdeck.com/i35_267/shi-ye-toenziniaringuwoxi-guli-xue)|
 |2021.01| [ProductZineウェビナー「データを武器にプロダクトの不確実性と戦う」](https://prtimes.jp/main/html/rd/p/000000047.000034873.html)|[データを武器にプロダクトの不確実性と戦う](https://speakerdeck.com/i35_267/datadriven-development)|
