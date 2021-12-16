@@ -85,8 +85,9 @@
 |2017.12|DMM開発AWARD|[VSM (Value Stream Mapping)を作ったら 開発プロセスが可視化されて一回の会議で 要件定義からリリースまでを268時間から40時間に リードタイムを短縮できることがわかった話 〜非エンジニアでもできるVSM作成〜](https://speakerdeck.com/i35_267/vsm-value-stream-mapping-wozuo-tutara-kai-fa-purosesugake-shi-hua-sarete-hui-falsehui-yi-de-yao-jian-ding-yi-kararirisumadewo268shi-jian-kara40shi-jian-ni-ridotaimuwoduan-suo-dekirukotogawakatutahua-fei-enziniademodekiruvsmzuo-cheng)|
 
 
-## 執筆
+## 執筆（記事）
 - [【DMM inside】事業をスケールさせるエンジニアリング〜技術のコモディティ化にエンジニアは敗北する〜](https://inside.dmm.com/entry/2021/12/01/connecting-business-engineering)
+- [【Offers】副業×本業で、あらゆる事業フェーズのPMを経験する価値](https://offers.jp/media/sidejob/workstyle/a_2105)
 - [【Offers】プロジェクトマネージャーの副業事情。実際の案件やリモート時の注意点について](https://offers.jp/media/sidejob/a_1744)
 - [【DMM inside】DMM.go #2をオンライン開催しました！〜オンライン開催のノウハウもご紹介〜](https://inside.dmm.com/entry/2020/05/20/dmmgo-2)
 - [【DMM inside】DMM.go #1を開催しました！](https://inside.dmm.com/entry/2020/02/03/dmmgo-1)
