@@ -101,7 +101,7 @@
 - [【DMM inside】【SRE】サービス稼働率Downを防ぐ！『Disaster in recovery training』というアプローチ方法について](https://inside.dmm.com/entry/2018/08/07/disaster-in-recovery-training)
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
-## メディア
+## 取材
 - [【CodeZine】「エンジニアは武器を作る側か、その武器を使って事業を伸ばす側の二極化へ――DMM石垣さんに訊いたキャリア構築に必要なこと](https://codezine.jp/article/detail/14946) 
 - [【ProductZine】「データ」は不確実性と戦う武器――事業を観測しながら改善する、プロダクト開発の仕組み作り](https://productzine.jp/article/detail/180) 
 - [【IT Search】DMM.comが実践する、データに基づく「Scientific」な組織づくり](https://news.mynavi.jp/itsearch/article/solution/5189)
