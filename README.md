@@ -20,7 +20,7 @@
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
 プラットフォーム事業本部 メンバーシップサービス部 部長 / DMMポイントクラブ事業責任者 / VPoE室<br>
 エンジニア新卒入社<br>
-現在は、DMMポイントクラブの立ち上げからグロース、3500万会員のID・個人情報管理、CSプラットフォーム（カスタマーサポート）を司るメンバーシップサービス部の部長、DMM全体のエンジニア組織課題（採用・育成・評価・露出等）を解決する組織である、VPoE室を兼務している。
+現在は、DMMポイントクラブの立ち上げからグロース、3500万会員のID・個人情報管理、CSプラットフォーム（カスタマーサポート）を司るメンバーシップサービス部の部長、DMM全体のエンジニア組織課題（採用・育成・評価・露出等）を解決する組織である、VPoE室を兼務している。2022年より、DMM TechExpertsに選出。
 
 
 ###### 担当領域
@@ -110,6 +110,7 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## 取材
+- [【DMM inside】「新しいロールモデル制度「DMM Tech Experts」が「エンジニアリングは好きだけど、管理職にはつきたくない」と思っている人の意識を変える」](https://inside.dmm.com/entry/2022/1/12/dmm-tech-experts)
 - [【CodeZine】「エンジニアは武器を作る側か、その武器を使って事業を伸ばす側の二極化へ――DMM石垣さんに訊いたキャリア構築に必要なこと](https://codezine.jp/article/detail/14946) 
 - [【ProductZine】「データ」は不確実性と戦う武器――事業を観測しながら改善する、プロダクト開発の仕組み作り](https://productzine.jp/article/detail/180) 
 - [【IT Search】DMM.comが実践する、データに基づく「Scientific」な組織づくり](https://news.mynavi.jp/itsearch/article/solution/5189)
