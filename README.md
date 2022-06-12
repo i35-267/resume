@@ -25,12 +25,12 @@
 
 
 ###### 担当領域
-- 事業戦略 / 財務諸表・予算管理（PL） / KPIマネジメント / 定量データ分析 / 仮説検証（施策立案）
+- 事業戦略 / PL・予算管理 / KPIマネジメント / データ分析 / 仮説検証 / アジャイル
 - 業務比重 : <br>
-      1. ProductManagement（予算、事業戦略、KPI、データ分析、仮説立案）<br>
+      1. ProductManagement（事業戦略、予算、KPI、データ分析、仮説立案）<br>
       2. HumanManagement（組織設計、1on1、評価、育成、採用）<br>
       3. ProjectManagement（アジャイル、リーン）<br>
-      4. Technology Management（アーキテクチャ、サーバーコスト、マイクロサービスとスモールチーム）<br>
+      4. Technology Management（アーキテクト、サーバーコスト、マイクロサービスとスモールチーム）<br>
 - 比重に関しては、事業やプロダクトのフェーズに寄ります。事業立ち上げ時のようにイニシャルコストがかかるときは、Human/ProjectManagementに比重を多くなり、組織設計・構造を意識して市場へのデリバリー速度を意識します。そこからの仮説と実験フェーズのようなランニングコスト時には、事業戦略的のベクトルを定めるためにKPIマネジメントからデータ分析の比重を多くして、組織の方向性を定めて自走させる部分が多くなります。
 
 全体的な方針としては、「事業をスケールさせるエンジニアリング」「再現性の高いエンジニアリング」をテーマにしています。
@@ -45,7 +45,7 @@
 - [DevLead by DMM Group](https://dmm.connpass.com/event/194535/)主催
 
 #### 副業 : 
-スタートアップを中心にアジャイルコーチ、プロダクトマネジメント、プロジェクトマネジメント、採用アシスト
+スタートアップを中心にアジャイルコーチ、データアナリスト、プロダクトマネジメント、プロジェクトマネジメント、採用アシスト
 
 <br>
 
@@ -64,6 +64,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2022.02| Developers Summit 2022 | [【20min ver.】事業をスケールさせるエンジニアたち〜技術のコモディティ化にエンジニアは敗北する〜 ](https://speakerdeck.com/i35_267/connecting-business-and-engineering-bef28870-6900-470d-8e8c-e447beaa13cd)
 |2021.12| 東京大学大学院 IIS Lab (東京大学矢谷研究室) 【融合情報学特別講義Ⅱ】 | [【融合情報学特別講義Ⅱ】事業とエンジニアリングを繋ぐ力学 - 東京大学 大学院講義](https://speakerdeck.com/i35_267/connecting-engineering-business)
 |2021.12| [【基調講演】Developers Boost 2021](https://event.shoeisha.jp/devboost/20211211/) | [事業をスケールさせるエンジニアたち〜技術のコモディティ化にエンジニアは敗北する](https://speakerdeck.com/i35_267/connecting-business-and-engineering)
 |2021.09| [DevLead by DMM #4 〜DMMが実現する“Scientific”への挑戦と失敗編〜](https://dmm.connpass.com/event/224908/)|[【動画】仮説と実験主義への挑戦と失敗〜](https://youtu.be/EKNY0g6sAyM?t=754) <br> [【スライド】仮説と実験主義への挑戦と失敗〜](https://speakerdeck.com/i35_267/765dd721-09f9-4c71-8b4e-0b8a9d325181)|
@@ -111,6 +112,7 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## 取材
+- [【Jobpicks】未経験エンジニアが20代部長に。DMM石垣雅人の成長支えた5つの掟](https://job.newspicks.com/articles/839)
 - [【DMM inside】「新しいロールモデル制度「DMM Tech Experts」が「エンジニアリングは好きだけど、管理職にはつきたくない」と思っている人の意識を変える」](https://inside.dmm.com/entry/2022/1/12/dmm-tech-experts)
 - [【CodeZine】「エンジニアは武器を作る側か、その武器を使って事業を伸ばす側の二極化へ――DMM石垣さんに訊いたキャリア構築に必要なこと](https://codezine.jp/article/detail/14946) 
 - [【ProductZine】「データ」は不確実性と戦う武器――事業を観測しながら改善する、プロダクト開発の仕組み作り](https://productzine.jp/article/detail/180) 
