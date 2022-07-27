@@ -12,7 +12,6 @@
 |GitHub|https://github.com/i35-267|
 |Linkedin| https://www.linkedin.com/in/ishigaki-masato-85b603168/|
 |Jobpicks | https://job.newspicks.com/role-models/190?job-id=40 |
-|Offers|https://offers.jp/a/users/cd79c2d59bb76d0c2854746cce61537869031e664f4e75f36b1a95b328673a7c|
 |Contact|i35.267.m@gmail.com|
 
 
@@ -65,6 +64,8 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2022.06|[「不確実性」にどう立ち向かう？アジャイル開発現場のリアル【BASE・DMM】](https://dmm.connpass.com/event/251552/)|[【動画 : 司会 + モデレーター】](https://youtu.be/-QEaumvNeqI)
+|2022.05|[【DMM x はてな】それぞれのアジャイル開発の現場](https://dmm.connpass.com/event/249486/)|[【動画 : 司会 + モデレーター】](https://youtu.be/1GnnJMzL3eE)
 |2022.02| Developers Summit 2022 | [【20min ver.】事業をスケールさせるエンジニアたち〜技術のコモディティ化にエンジニアは敗北する〜 ](https://speakerdeck.com/i35_267/connecting-business-and-engineering-bef28870-6900-470d-8e8c-e447beaa13cd)
 |2021.12| 東京大学大学院 IIS Lab (東京大学矢谷研究室) 【融合情報学特別講義Ⅱ】 | [【融合情報学特別講義Ⅱ】事業とエンジニアリングを繋ぐ力学 - 東京大学 大学院講義](https://speakerdeck.com/i35_267/connecting-engineering-business)
 |2021.12| [【基調講演】Developers Boost 2021](https://event.shoeisha.jp/devboost/20211211/) | [事業をスケールさせるエンジニアたち〜技術のコモディティ化にエンジニアは敗北する](https://speakerdeck.com/i35_267/connecting-business-and-engineering)
