@@ -18,7 +18,7 @@
 
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
-プラットフォーム事業本部 メンバーシップサービス部 部長 / DMMポイントクラブ事業責任者 / VPoE室<br>
+プラットフォーム事業本部 第1開発部 部長 / DMMポイントクラブ事業責任者 / VPoE室<br>
 エンジニア新卒入社<br>
 現在は、DMMポイントクラブの立ち上げからグロース、3500万会員のID・個人情報管理、CSプラットフォーム（カスタマーサポート）を司るメンバーシップサービス部の部長、DMM全体のエンジニア組織課題（採用・育成・評価・露出等）を解決する組織である、VPoE室を兼務している。2022年より、DMM TechExpertsに選出。<br>
 配下メンバーは、60~70名前後。
@@ -38,11 +38,6 @@
 - [事業をスケールさせるエンジニアリング〜技術のコモディティ化にエンジニアは敗北する〜](https://inside.dmm.com/entry/2021/12/01/connecting-business-engineering)
 
 また、再現性が高いエンジニアリングを意識しています。理論に沿って、例えチームにスーパーエンジニアが数多くいなくても、一定パフォーマンスがスケールできるような大規模な組織設計を考えています。DMMではVPoE室を兼務し、現在も模索してながら実験を繰り返しています。
-
-
-#### コミュニティー
-- [DMM.go](https://dmm.connpass.com/event/157222/) 主催
-- [DevLead by DMM Group](https://dmm.connpass.com/event/194535/)主催
 
 #### 副業 : 
 スタートアップを中心にアジャイルコーチ、データアナリスト、プロダクトマネジメント、プロジェクトマネジメント、採用アシスト
@@ -114,6 +109,7 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## 取材
+- [【CodeZine】事業をスケールさせるエンジニアへの転身で、技術のコモディティ化に打ち勝つ【デブスト2021】 ] (https://codezine.jp/article/detail/15526)
 - [【Jobpicks】未経験エンジニアが20代部長に。DMM石垣雅人の成長支えた5つの掟](https://job.newspicks.com/articles/839)
 - [【DMM inside】「新しいロールモデル制度「DMM Tech Experts」が「エンジニアリングは好きだけど、管理職にはつきたくない」と思っている人の意識を変える」](https://inside.dmm.com/entry/2022/1/12/dmm-tech-experts)
 - [【CodeZine】「エンジニアは武器を作る側か、その武器を使って事業を伸ばす側の二極化へ――DMM石垣さんに訊いたキャリア構築に必要なこと](https://codezine.jp/article/detail/14946) 
