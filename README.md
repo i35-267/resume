@@ -109,7 +109,7 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## 取材
-- [【CodeZine】事業をスケールさせるエンジニアへの転身で、技術のコモディティ化に打ち勝つ【デブスト2021】 ] (https://codezine.jp/article/detail/15526)
+- [【CodeZine】事業をスケールさせるエンジニアへの転身で、技術のコモディティ化に打ち勝つ【デブスト2021】](https://codezine.jp/article/detail/15526)
 - [【Jobpicks】未経験エンジニアが20代部長に。DMM石垣雅人の成長支えた5つの掟](https://job.newspicks.com/articles/839)
 - [【DMM inside】「新しいロールモデル制度「DMM Tech Experts」が「エンジニアリングは好きだけど、管理職にはつきたくない」と思っている人の意識を変える」](https://inside.dmm.com/entry/2022/1/12/dmm-tech-experts)
 - [【CodeZine】「エンジニアは武器を作る側か、その武器を使って事業を伸ばす側の二極化へ――DMM石垣さんに訊いたキャリア構築に必要なこと](https://codezine.jp/article/detail/14946) 
