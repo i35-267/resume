@@ -44,7 +44,7 @@
 
 <br>
 
-## 著書 / 連載
+## 著書
 - [【書籍】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
 <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">
 
