@@ -15,7 +15,6 @@
 |Contact|i35.267.m@gmail.com|
 
 
-
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
 プラットフォーム事業本部 第1開発部 部長 / DMMポイントクラブ事業責任者 / VPoE室<br>
@@ -45,20 +44,30 @@
 <br>
 
 ## 著書
-- [【書籍】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
-<img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">
+- [【商業誌】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
+- <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">
+- [【技術書典】DMM PointClub TechBook](https://techbookfest.org/product/8ckqypHhSCaakQ1nM1E4JS?productVariantID=3B3aLQpXmWQCx61qhcVCiz)
+
+- <img src="https://user-images.githubusercontent.com/40228637/189582881-57fc1296-e41b-427f-a49f-701810a53810.png" width="150">
+
+- [論文_アジャイル開発の生産性とは.pdf](https://github.com/i35-267/resume/files/9544868/_.pdf)
+
 
 <br>
+
+
 
 ## 連載
 - [【ProductZine】スモールチームが武器になる時代へ ～小さい集団×Nがプロダクト開発にもたらしたもの～](https://productzine.jp/article/corner/42)
 
 <br>
 
+
 ## 登壇
 
 |Date|Event|Slide|
 |---|---|---|
+|2022.06|[ソフトウェア品質シンポジウム2022](https://www.juse.jp/sqip/symposium/)|[【SQiP】アジャイル開発の生産性 / What is agile development productivity?](https://speakerdeck.com/i35_267/what-is-agile-development-productivity)
 |2022.06|[「不確実性」にどう立ち向かう？アジャイル開発現場のリアル【BASE・DMM】](https://dmm.connpass.com/event/251552/)|[【動画 : 司会 + モデレーター】](https://youtu.be/-QEaumvNeqI)
 |2022.05|[【DMM x はてな】それぞれのアジャイル開発の現場](https://dmm.connpass.com/event/249486/)|[【動画 : 司会 + モデレーター】](https://youtu.be/1GnnJMzL3eE)
 |2022.02| Developers Summit 2022 | [【20min ver.】事業をスケールさせるエンジニアたち〜技術のコモディティ化にエンジニアは敗北する〜 ](https://speakerdeck.com/i35_267/connecting-business-and-engineering-bef28870-6900-470d-8e8c-e447beaa13cd)
