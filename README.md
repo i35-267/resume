@@ -62,11 +62,11 @@
 
 <br>
 
-
 ## 登壇
 
 |Date|Event|Slide|
 |---|---|---|
+|2022.12|[DMM meetup #38〜フルサイクルエンジニアリングの現場【技術書典出版記念】〜](https://youtu.be/Y6Kj33EeJqg)|[フルサイクルエンジニアリングとは](https://speakerdeck.com/i35_267/what-is-agile-development-productivity)
 |2022.06|[ソフトウェア品質シンポジウム2022](https://www.juse.jp/sqip/symposium/)|[【SQiP】アジャイル開発の生産性 / What is agile development productivity?](https://speakerdeck.com/i35_267/what-is-agile-development-productivity)
 |2022.06|[「不確実性」にどう立ち向かう？アジャイル開発現場のリアル【BASE・DMM】](https://dmm.connpass.com/event/251552/)|[【動画 : 司会 + モデレーター】](https://youtu.be/-QEaumvNeqI)
 |2022.05|[【DMM x はてな】それぞれのアジャイル開発の現場](https://dmm.connpass.com/event/249486/)|[【動画 : 司会 + モデレーター】](https://youtu.be/1GnnJMzL3eE)
