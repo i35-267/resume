@@ -66,6 +66,7 @@
 
 |Date|Event|Slide|
 |---|---|---|
+|2023.2|[Develops Summit 2023〜](https://event.shoeisha.jp/devsumi/20230209/)|[結局は、人](https://speakerdeck.com/i35_267/in-the-end-people-value)
 |2022.12|[DMM meetup #38〜フルサイクルエンジニアリングの現場【技術書典出版記念】〜](https://youtu.be/Y6Kj33EeJqg)|[フルサイクルエンジニアリングとは](https://speakerdeck.com/i35_267/what-is-agile-development-productivity)
 |2022.06|[ソフトウェア品質シンポジウム2022](https://www.juse.jp/sqip/symposium/)|[【SQiP】アジャイル開発の生産性 / What is agile development productivity?](https://speakerdeck.com/i35_267/what-is-agile-development-productivity)
 |2022.06|[「不確実性」にどう立ち向かう？アジャイル開発現場のリアル【BASE・DMM】](https://dmm.connpass.com/event/251552/)|[【動画 : 司会 + モデレーター】](https://youtu.be/-QEaumvNeqI)
@@ -120,6 +121,7 @@
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
 
 ## 取材
+- [【Leaders】「挑戦を恐れず、立ち向かう」合同会社DMM.com プラットフォーム事業本部 部長が悩めるリーダーへ伝えたいこと](https://leaders.seattleconsulting.co.jp/communication/interview-dmmcom/)
 - [【CodeZine】事業をスケールさせるエンジニアへの転身で、技術のコモディティ化に打ち勝つ【デブスト2021】](https://codezine.jp/article/detail/15526)
 - [【Jobpicks】未経験エンジニアが20代部長に。DMM石垣雅人の成長支えた5つの掟](https://job.newspicks.com/articles/839)
 - [【DMM inside】「新しいロールモデル制度「DMM Tech Experts」が「エンジニアリングは好きだけど、管理職にはつきたくない」と思っている人の意識を変える」](https://inside.dmm.com/entry/2022/1/12/dmm-tech-experts)
