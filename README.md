@@ -1,5 +1,5 @@
 # Resume
-<img width="127" alt="2018-10-13 13 52 35" src="https://user-images.githubusercontent.com/40228637/109680186-9d1fa980-7bbf-11eb-981f-dfb6347ae6cd.jpg">
+<img width="100" alt="icon" src="https://user-images.githubusercontent.com/40228637/109680186-9d1fa980-7bbf-11eb-981f-dfb6347ae6cd.jpg">
 
 |key|value|
 |---|---|
@@ -17,28 +17,29 @@
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
 プラットフォーム事業本部 第1開発部 部長 / DMMポイントクラブ事業責任者 / VPoE室 / α室 <br>
-エンジニア新卒入社<br>
-現在は、DMMポイントクラブの立ち上げからグロース、3500万会員のID・個人情報管理、CSプラットフォーム（カスタマーサポート）を司るメンバーシップサービス部の部長、DMM全体のエンジニア組織、PM組織の課題（全社プロジェクト管理・採用・育成・評価・露出等）を解決する組織であるVPoE室・α室を兼務、2022年より、DMM TechExpertsに選出。<br>
+
+DMM.comにエンジニア職で新卒入社し、翌年からプロジェクトマネージャーを務める。<br>
+いくつかのプロダクトマネージャーを経て、2020年DMM.comの入り口である総合トップなどを管轄する総合トップ開発部の立ち上げを行い部長を従事。<br> 現在はプラットフォーム事業本部 第1開発部 部長を努め、VPoE室・アルファ室を兼務。DMMポイントクラブサービスの立ち上げからグロース、DMM.com の3,914万会員のID基盤 ・個人情報・CS-Platformを管轄する開発部の部長、DMM全体のエンジニア・デザイナー・PM組織の組織課題を解決するVPoE室・アルファ室を兼務している。
 配下メンバーは、60~70名前後。
 
 
 ###### 担当領域
 - 事業戦略 / PL・予算管理 / KPIマネジメント / データ分析 / 仮説検証 / アジャイル
 - 業務比重 : <br>
-      1. ProductManagement（事業開発、戦略、予算、KPI、データ分析）<br>
-      2. HumanManagement（組織設計、1on1、評価、育成、採用）<br>
-      3. ProjectManagement（アジャイル、リーン、プロマネ）<br>
-      4. Technology Management（アーキテクト、サーバーコスト、マイクロサービスとスモールチーム）<br>
-- 比重に関しては、事業やプロダクトのフェーズに寄ります。事業立ち上げ時のようにイニシャルコストがかかるときは、Human/ProjectManagementに比重を多くなり、組織設計・構造を意識して市場へのデリバリー速度を意識します。そこからの仮説と実験フェーズのようなランニングコスト時には、事業戦略的のベクトルを定めるためにKPIマネジメントからデータ分析の比重を多くして、組織の方向性を定めて自走させる部分が多くなります。
+ 1. ProductManagement（事業開発、戦略、予算、KPI、データ分析）<br>
+ 2. PeopleManagement（組織設計、1on1、評価、育成、採用）<br>
+ 3. ProjectManagement（Developer Productivity、アジャイル・リーン、ValueStreamMapping、）<br>
+ 4. Technology Management（アーキテクト、サーバーコスト、マイクロサービスとスモールチーム）<br>
+- 業務の比重に関しては、事業やプロダクトのフェーズに応じて変えています。自分のリソースをどこに置くことが一番事業・プロダクトがグロースするかを考え、事業立ち上げ時はProjectManagement / PeopleManagementに比重を多くなり、組織設計・構造を意識して市場へのデリバリー速度を意識します。そのあとの仮説と実験フェーズでは、事業戦略的のベクトルを定めるためにKPIマネジメントからデータ分析、リサーチ比重を多くして、組織を自走できるように権限移譲・裁量をコントールしながら、プロダクトマネジメント・戦略部分に重きを置きます。
 
 全体的な方針としては、「事業をスケールさせるエンジニアリング」「再現性の高いエンジニアリング」をテーマにしています。
 技術はプロダクトを作っていくためにあり、プロダクトは事業の収支を作るためにあるので、事業とエンジニアリングの関係性を常に考えています。
 - [事業をスケールさせるエンジニアリング〜技術のコモディティ化にエンジニアは敗北する〜](https://inside.dmm.com/entry/2021/12/01/connecting-business-engineering)
 - [ ソフトウェア開発の予測と記録と資産〜プロジェクト失敗率 69%の壁〜](https://inside.dmm.com/entry/2022/12/01/software)
 
-また、再現性が高いエンジニアリングを意識しています。理論に沿って、例えチームにスーパーエンジニアが数多くいなくても、一定パフォーマンスがスケールできるような大規模な組織設計を考えています。DMMではVPoE室を兼務し、現在も模索してながら実験を繰り返しています。
+再現性が高いエンジニアリングでは、例えチームにスーパーエンジニアがいなくても、一定パフォーマンスがスケールできるような大規模な組織設計を考えています。主にエンジニア組織の可観測性を高め再現性を作るためのプロセス分析・遂行を得意とします。
 
-#### 副業 : 
+#### 副業 :
 スタートアップを中心にアジャイルコーチ、データアナリスト、プロダクトマネジメント、プロジェクトマネジメント、採用アシスト
 
 <br>
@@ -81,15 +82,16 @@
 |2020.12| [Developers Boost 2020](https://event.shoeisha.jp/devboost/20201212)|[チームを”群れ”として観察すれば、 アジャイル開発はもっとうまくいく](https://speakerdeck.com/i35_267/swarming-agile-2dcc0791-7bc9-40b3-88be-cebc5181e292)|
 |2020.11|[DMM meetup#22〜DMMのプラットフォームを支える総合トップとDMM PointClub〜](https://dmm.connpass.com/event/195179/)|[DMM経済圏の確立を目指す上でのパーソナライズ戦略とクロスユース戦略](https://speakerdeck.com/i35_267/dmm-economic-zone)|
 |2020.11|[『DMM.comを支えるデータ駆動戦略』出版記念イベント！【オンライン】](https://dmm.connpass.com/event/193716/)|[1時間で徹底解説！『DMM.comを支えるデータ駆動戦略』出版記念イベント！ / Data- Strategy](https://speakerdeck.com/i35_267/data-strategy)|
-|2020.09|[iOSDC 2020](https://iosdc.jp/2020/)|[組織構造の力学を操作して、アプリ開発プロセスを最大化させる](https://speakerdeck.com/i35_267/organizational-structure-to-maximize-the-development-process)|
+|2020.09|[iOSDC 2020](https://iosdc.jp/2020/)|[組織構造の力学を操作して、アプリ開発プロセスを最大化させる](https://speakerdeck.com/i35_267/organizational-structure-to-maximize-the-development-process)|
 |2020.09|[XP祭り 2020](http://xpjug.com/xp2020/)|["群れる"アジャイル](https://speakerdeck.com/i35_267/swarming-agile)|
 |2020.04|[DevOpsDaysTokyo2020](https://www.devopsdaystokyo.org/)|※コロナの影響による中止<br>[「失敗できる」を作り出すと開発組織は加速する](https://confengine.com/devopsdays-tokyo-2020/proposal/14074)|
 |2020.03|[【学生限定】役員と先輩社員が語る！「IT企業で生きぬく人材とは」](https://dmm.connpass.com/event/166998/)|[エンジニアが事業を作る強み](https://speakerdeck.com/i35_267/enziniagashi-ye-wotukuruqiang-mi)|
-|2020.02|[AgilePBL 祭り](https://agilepbl.connpass.com/)|[DMM x Agile](https://speakerdeck.com/i35_267/dmm-x-agile)|
+|2020.02|[AgilePBL 祭り](https://agilepbl.connpass.com/)|[DMM x Agile](htt
+  ps://speakerdeck.com/i35_267/dmm-x-agile)|
 |2020.01|[主催 : DMM.go #1](https://dmm.connpass.com/event/157222/)|[DMM.go #1を開催しました！](https://inside.dmm.com/entry/2020/02/03/dmmgo-1)|
 |2019.12|[TECH PLAY- データ活用、支える技術と生まれるビジネス 〜プロダクトグロースを支えるデータとの向き合い方〜](https://techplay.jp/event/760252)|[DMMにおける「事業」と「データ」](https://speakerdeck.com/i35_267/business-and-data-at-dmm)|
-|2019.09|[XP祭り 2019](https://xpjug.com/xp2019/)|[「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える](https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru)|
-|2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
+|2019.09|[XP祭り 2019](https://xpjug.com/xp2019/)|[「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える](https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru)|
+|2019.06|[DevLOVE X](https://devlove.wixsite.com/devlovex?fbclid=IwAR2qGc-84NSA74CXSIiJ1vshHMAc7V8q71jp5MMhLyeYeqbm7O3_XF2CLsM)|[データ駆動☓リーン☓スクラムを組織文化に浸透させ、プロダクトをグロースさせる](https://speakerdeck.com/i35_267/data-driven-lean-scrum-to-product-growth)|
 |2019.05|[主催 : <br>DMM x ZOZOを支える技術](https://dmm.connpass.com/event/129128/)|[DMMを支えるプラットフォーム基盤の裏側 ](https://speakerdeck.com/i35_267/dmmwozhi-erupuratutohuomuji-pan-falseli-ce)|
 |2019.04|[社内:開発マネジメントMeetup](https://inside.dmm.com/entry/2019/07/30/management-meetup)|[組織のケイパビリティーをUnlearnとSECIモデルの文脈で語る](https://speakerdeck.com/i35_267/zu-zhi-falsekeipabiriteiwounlearntosecimoderufalsewen-mo-deyu-ru)|
 |2019.04|[DevOps Days Tokyo 2019](https://www.devopsdaystokyo.org/)|[Data-Driven x DevOps](https://speakerdeck.com/i35_267/data-driven-x-devops)|
@@ -102,6 +104,23 @@
 |2018.01|DMM x LIFULL交流会|[プラットフォーム基盤の「見える化」 によるサービス貢献の話<br>~ Developer Experience(DX)を考える~](https://speakerdeck.com/i35_267/puratutohuomuji-pan-false-jian-eruhua-niyorusabisugong-xian-falsehua-developer-experience-dx-wokao-eru)|
 |2017.12|DMM開発AWARD|[VSM (Value Stream Mapping)を作ったら 開発プロセスが可視化されて一回の会議で 要件定義からリリースまでを268時間から40時間に リードタイムを短縮できることがわかった話 〜非エンジニアでもできるVSM作成〜](https://speakerdeck.com/i35_267/vsm-value-stream-mapping-wozuo-tutara-kai-fa-purosesugake-shi-hua-sarete-hui-falsehui-yi-de-yao-jian-ding-yi-kararirisumadewo268shi-jian-kara40shi-jian-ni-ridotaimuwoduan-suo-dekirukotogawakatutahua-fei-enziniademodekiruvsmzuo-cheng)|
 
+## 取材
+- [【Skyfall】「DMMポイントクラブ』サービスの収益における基盤をSKYFLAGが築いてくれました」](https://skyflag.info/case/166/)
+- [【Leaders】「挑戦を恐れず、立ち向かう」合同会社DMM.com プラットフォーム事業本部 部長が悩めるリーダーへ伝えたいこと](https://leaders.seattleconsulting.co.jp/communication/interview-dmmcom/)
+- [【CodeZine】事業をスケールさせるエンジニアへの転身で、技術のコモディティ化に打ち勝つ【デブスト2021】](https://codezine.jp/article/detail/15526)
+- [【Jobpicks】未経験エンジニアが20代部長に。DMM石垣雅人の成長支えた5つの掟](https://job.newspicks.com/articles/839)
+- [【DMM inside】「新しいロールモデル制度「DMM Tech Experts」が「エンジニアリングは好きだけど、管理職にはつきたくない」と思っている人の意識を変える」](https://inside.dmm.com/entry/2022/1/12/dmm-tech-experts)
+- [【CodeZine】「エンジニアは武器を作る側か、その武器を使って事業を伸ばす側の二極化へ――DMM石垣さんに訊いたキャリア構築に必要なこと](https://codezine.jp/article/detail/14946)
+- [【ProductZine】「データ」は不確実性と戦う武器――事業を観測しながら改善する、プロダクト開発の仕組み作り](https://productzine.jp/article/detail/180)
+- [【IT Search】DMM.comが実践する、データに基づく「Scientific」な組織づくり](https://news.mynavi.jp/itsearch/article/solution/5189)
+- [【エンジニアtype】人気企業３社が語る今欲しいエンジニアの条件「2020年以降のエンジニアに最も必要なのは“技術以外”のスキル」【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12270)
+- [【エンジニアtype】令和の“ドラフト１位エンジニア”は誰だ！？ 人気企業３社が本気で考えた新規事業立ち上げチームに欲しい人【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12249)
+- [【CodeZine】あいまいな意思決定に別れを告げる、データ駆動戦略の「三種の神器」とは？ DMM.comのノウハウ【デブサミ2019】](https://codezine.jp/article/detail/11712)
+- [【Geekly】【後編】合同会社DMM.com ～IT企業だけど製造業もやっちゃう「なんでもありな会社」～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview2/)
+- [【Geekly】【前編】合同会社DMM.com ～レンタルビデオ店からテックカンパニーへ～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview/)
+- [【ログミー】 DMM.comプラットフォーム基盤の裏側ユーザーの回遊・リテンションを支える仕組み](https://logmi.jp/tech/articles/321466)
+- [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
+ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
 
 ## 執筆（記事）
 - [ 【DMM inside】ソフトウェア開発の予測と記録と資産〜プロジェクト失敗率 69%の壁〜](https://inside.dmm.com/entry/2022/12/01/software)
@@ -119,30 +138,3 @@
 - [【DMM inside】『ZenHub x GitHub』を軸としたスクラム開発のプロセス設計](https://inside.dmm.com/entry/2018/09/05/zenhub-github)
 - [【DMM inside】【SRE】サービス稼働率Downを防ぐ！『Disaster in recovery training』というアプローチ方法について](https://inside.dmm.com/entry/2018/08/07/disaster-in-recovery-training)
 - [【DMM inside】プロダクトのリリースまでの時間が268.5hから54.5hに！ VSM(ValueStreamMapping)時短術](https://inside.dmm.com/entry/2018/06/01/value-stream-mapping)
-
-## 取材
-- [【Leaders】「挑戦を恐れず、立ち向かう」合同会社DMM.com プラットフォーム事業本部 部長が悩めるリーダーへ伝えたいこと](https://leaders.seattleconsulting.co.jp/communication/interview-dmmcom/)
-- [【CodeZine】事業をスケールさせるエンジニアへの転身で、技術のコモディティ化に打ち勝つ【デブスト2021】](https://codezine.jp/article/detail/15526)
-- [【Jobpicks】未経験エンジニアが20代部長に。DMM石垣雅人の成長支えた5つの掟](https://job.newspicks.com/articles/839)
-- [【DMM inside】「新しいロールモデル制度「DMM Tech Experts」が「エンジニアリングは好きだけど、管理職にはつきたくない」と思っている人の意識を変える」](https://inside.dmm.com/entry/2022/1/12/dmm-tech-experts)
-- [【CodeZine】「エンジニアは武器を作る側か、その武器を使って事業を伸ばす側の二極化へ――DMM石垣さんに訊いたキャリア構築に必要なこと](https://codezine.jp/article/detail/14946) 
-- [【ProductZine】「データ」は不確実性と戦う武器――事業を観測しながら改善する、プロダクト開発の仕組み作り](https://productzine.jp/article/detail/180) 
-- [【IT Search】DMM.comが実践する、データに基づく「Scientific」な組織づくり](https://news.mynavi.jp/itsearch/article/solution/5189)
-- [【エンジニアtype】人気企業３社が語る今欲しいエンジニアの条件「2020年以降のエンジニアに最も必要なのは“技術以外”のスキル」【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12270)
-- [【エンジニアtype】令和の“ドラフト１位エンジニア”は誰だ！？ 人気企業３社が本気で考えた新規事業立ち上げチームに欲しい人【BASE×DMM×SHOWROOM】](https://type.jp/et/feature/12249)
-- [【CodeZine】あいまいな意思決定に別れを告げる、データ駆動戦略の「三種の神器」とは？ DMM.comのノウハウ【デブサミ2019】](https://codezine.jp/article/detail/11712)
-- [【Geekly】【後編】合同会社DMM.com ～IT企業だけど製造業もやっちゃう「なんでもありな会社」～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview2/)
-- [【Geekly】【前編】合同会社DMM.com ～レンタルビデオ店からテックカンパニーへ～](https://geekly.co.jp/column/cat-geeklycolumn/dmm_interview/)
-- [【ログミー】 DMM.comプラットフォーム基盤の裏側ユーザーの回遊・リテンションを支える仕組み](https://logmi.jp/tech/articles/321466)
-- [【ログミー】 リリースまでのリードタイムが268.5時間→54時間に短縮
-ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
-
-## 専門分野
-- Agile 
-  - Scrum, XP
-  - Certified Scrum Product Owner®
-- Data-Driven
-- KPI-Management
-- Lean
-- Agile-Marketing
-- DevOps
