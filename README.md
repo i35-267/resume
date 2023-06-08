@@ -67,7 +67,8 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 
 |Date|Event|Slide|
 |---|---|---|
-|2023.2|[【開発生産性 Meetup #1】開発生産性可視化による変化~事例LTから学ぶベストプラクティス~ ](https://findy.connpass.com/event/279894/)|[組織横断で生産性向上を生むまでの道筋とは？]([https://speakerdeck.com/i35_267/in-the-end-people-value](https://speakerdeck.com/i35_267/zu-zhi-heng-duan-desheng-chan-xing-xiang-shang-wosheng-mumadenodao-jin-toha))
+|2023.5|[【特別講演 : DXを支えるクラウドネイティブなアプリ・ソフトウェア開発基盤 2023 夏】](https://www.sbbit.jp/eventinfo/74896)|[How to measure Developer Productivity:可観測性と再現性](https://speakerdeck.com/i35_267/how-to-measure-developer-productivity-ke-guan-ce-xing-tozai-xian-xing)
+|2023.4|[【開発生産性 Meetup #1】開発生産性可視化による変化](https://findy.connpass.com/event/279894/)|[組織横断で生産性向上を生むまでの道筋とは？](https://speakerdeck.com/i35_267/zu-zhi-heng-duan-desheng-chan-xing-xiang-shang-wosheng-mumadenodao-jin-toha)
 |2023.2|[Develops Summit 2023〜](https://event.shoeisha.jp/devsumi/20230209/)|[結局は、人](https://speakerdeck.com/i35_267/in-the-end-people-value)
 |2022.12|[DMM meetup #38〜フルサイクルエンジニアリングの現場【技術書典出版記念】〜](https://youtu.be/Y6Kj33EeJqg)|[フルサイクルエンジニアリングとは](https://speakerdeck.com/i35_267/what-is-agile-development-productivity)
 |2022.06|[ソフトウェア品質シンポジウム2022](https://www.juse.jp/sqip/symposium/)|[【SQiP】アジャイル開発の生産性 / What is agile development productivity?](https://speakerdeck.com/i35_267/what-is-agile-development-productivity)
