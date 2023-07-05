@@ -59,6 +59,7 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 
 
 ## 連載
+- [【NewsPicks】群知能から紐解く、スケールする“組織“の作り方](https://newspicks.com/topics/swarm-intelligence?ref=TOPIC_POST_VIEW)
 - [【ProductZine】スモールチームが武器になる時代へ ～小さい集団×Nがプロダクト開発にもたらしたもの～](https://productzine.jp/article/corner/42)
 
 <br>
