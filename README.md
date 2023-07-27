@@ -109,6 +109,7 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 |2017.12|DMM開発AWARD|[VSM (Value Stream Mapping)を作ったら 開発プロセスが可視化されて一回の会議で 要件定義からリリースまでを268時間から40時間に リードタイムを短縮できることがわかった話 〜非エンジニアでもできるVSM作成〜](https://speakerdeck.com/i35_267/vsm-value-stream-mapping-wozuo-tutara-kai-fa-purosesugake-shi-hua-sarete-hui-falsehui-yi-de-yao-jian-ding-yi-kararirisumadewo268shi-jian-kara40shi-jian-ni-ridotaimuwoduan-suo-dekirukotogawakatutahua-fei-enziniademodekiruvsmzuo-cheng)|
 
 ## 取材
+- [【ビジネス+IT】「DMM.com開発部長が解説、開発案件の7割は壁にぶつかる？ 理由は“大抵同じ”と言える理由](https://www.sbbit.jp/article/sp/116736)
 - [【Skyfall】「DMMポイントクラブ』サービスの収益における基盤をSKYFLAGが築いてくれました」](https://skyflag.info/case/166/)
 - [【Leaders】「挑戦を恐れず、立ち向かう」合同会社DMM.com プラットフォーム事業本部 部長が悩めるリーダーへ伝えたいこと](https://leaders.seattleconsulting.co.jp/communication/interview-dmmcom/)
 - [【CodeZine】事業をスケールさせるエンジニアへの転身で、技術のコモディティ化に打ち勝つ【デブスト2021】](https://codezine.jp/article/detail/15526)
