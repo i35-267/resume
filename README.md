@@ -38,6 +38,14 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 
 再現性が高いエンジニアリングでは、例えチームにスーパーエンジニアがいなくても、一定パフォーマンスがスケールできるような大規模な組織設計を考えています。主にエンジニア組織の可観測性を高め再現性を作るためのプロセス分析・遂行を得意とします。
 
+###### 最近の仕事
+最近は、DMM.comが抱える1,000名前後のエンジニアの開発生産性の可視化・改善を進めています。<br>
+主に人事データとBPMのデータをBigQueryに流し込んでLookerやスプレットシートで可視化→レポーティングをしています。
+
+ [開発生産性Conference 2023](https://dev-productivity-con.findy-code.io) : [The Metrics Key_ Connecting Product, System, Team](https://speakerdeck.com/i35_267/the-metrics-key-connecting-product-system-team)
+<br>[【動画】The Metrics Key_ Connecting Product, System, Team](https://youtu.be/8_oRXy5mZSU)
+
+
 #### 副業 :
 スタートアップを中心にアジャイルコーチ、データアナリスト、プロダクトマネジメント、プロジェクトマネジメント、採用アシスト
 
