@@ -75,7 +75,8 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 
 |Date|Event|Slide|
 |---|---|---|
-|2023.7|[DMM石垣氏に聞く　見積もりをしない、コミュニケーション負荷を減らすスクラムの実践](https://offers.connpass.com/event/289979/)|[見積もりをしない。](https://speakerdeck.com/i35_267/jian-ji-moriwosinai)
+|2023.10|[Findy Tean+ Award 2023](https://award.findy-team.io)|[プレスリリース : DMM.comがFindy Team+ Award 2023 を受賞](https://dmm-corp.com/press/service/3205/)
+|2023.7|[DMM石垣氏に聞く　見積もりをしない、コミュニケーション負荷を減らすスクラムの実践](https://offers.connpass.com/event/289979/)|[見積もりをしない。](https://speakerdeck.com/i35_267/jian-ji-moriwosinai)<br>[【イベントレポート】DMM石垣氏に聞く　見積もりをしない、コミュニケーション負荷を減らすスクラムの実践](https://offers.jp/media/event-report/a_2800)
 |2023.7|[開発生産性Conference 2023](https://dev-productivity-con.findy-code.io)|[The Metrics Key_ Connecting Product, System, Team](https://speakerdeck.com/i35_267/the-metrics-key-connecting-product-system-team)<br>[【動画】The Metrics Key_ Connecting Product, System, Team](https://youtu.be/8_oRXy5mZSU)
 |2023.5|[【特別講演 : DXを支えるクラウドネイティブなアプリ・ソフトウェア開発基盤 2023 夏】](https://www.sbbit.jp/eventinfo/74896)|[How to measure Developer Productivity:可観測性と再現性](https://speakerdeck.com/i35_267/how-to-measure-developer-productivity-ke-guan-ce-xing-tozai-xian-xing) <br> [【動画】 How to measure Developer Productivity:可観測性と再現性](https://www.sbbit.jp/movie/sp/13283)
 |2023.4|[【開発生産性 Meetup #1】開発生産性可視化による変化](https://findy.connpass.com/event/279894/)|[組織横断で生産性向上を生むまでの道筋とは？](https://speakerdeck.com/i35_267/zu-zhi-heng-duan-desheng-chan-xing-xiang-shang-wosheng-mumadenodao-jin-toha)
