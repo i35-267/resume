@@ -77,6 +77,7 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 
 |Date|Event|Slide|
 |---|---|---|
+|2023.12|[DMM meetup #39 ～開発生産性を熱く語る会～](https://dmm.connpass.com/event/301567/)|[開発生産性の低下による、事業の失敗はなぜ起こるのか ](https://speakerdeck.com/i35_267/productivitypitfalls)<br>[【動画】YouTube](https://www.youtube.com/live/CG9aej2Oq_0?si=jezFgIjYnBdLuIFA)
 |2023.11|[開発生産性の未来：世界と日本の最前線事例から培うFour Keys向上〜ハイブリッドカンファレンス〜](https://findy.connpass.com/event/298196/)|[開発生産性の多角的接点〜1,000名のクリエイター組織 × 開発生産性〜 ](https://speakerdeck.com/i35_267/multifaceted-touchpoints-of-development-productivity)
 |2023.10|[改めて考えるDXシステム開発 2023](https://f2ff.jp/event/sysdx)|[内製化で強化させる、事業のスケーラビリティーとエンジニアの成長戦略](https://speakerdeck.com/i35_267/insourcing)
 |2023.10|[Findy Tean+ Award 2023](https://award.findy-team.io)|[プレスリリース : DMM.comがFindy Team+ Award 2023 を受賞](https://dmm-corp.com/press/service/3205/)
