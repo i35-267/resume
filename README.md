@@ -43,9 +43,9 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 主に人事データとBPMのデータをBigQueryに流し込んでLookerやスプレットシートで可視化→レポーティングをしています。
 
 参考資料
+- [開発生産性の現在地点～エンジニアリングが及ぼす多角的視点](https://speakerdeck.com/i35_267/current-status-of-development-productivity)
 - [開発生産性の多角的接点〜1,000名のクリエイター組織 × 開発生産性〜 ](https://speakerdeck.com/i35_267/multifaceted-touchpoints-of-development-productivity)
--  [開発生産性Conference 2023](https://dev-productivity-con.findy-code.io) : [The Metrics Key_ Connecting Product, System, Team](https://speakerdeck.com/i35_267/the-metrics-key-connecting-product-system-team)
-<br>[【動画】The Metrics Key_ Connecting Product, System, Team](https://youtu.be/8_oRXy5mZSU)
+
 
 
 #### 副業 :
@@ -68,6 +68,7 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 
 
 ## 連載
+- [【CodeZine】開発生産性の多角的視点 〜開発チームから事業経営に開発生産性を波及させるには？〜](https://codezine.jp/article/corner/995) 
 - [【NewsPicks】群知能から紐解く、スケールする“組織“の作り方](https://newspicks.com/topics/swarm-intelligence?ref=TOPIC_POST_VIEW)
 - [【ProductZine】スモールチームが武器になる時代へ ～小さい集団×Nがプロダクト開発にもたらしたもの～](https://productzine.jp/article/corner/42)
 
@@ -77,6 +78,7 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 
 |Date|Event|Slide|
 |---|---|---|
+|2023.1|[Develops Summit 2023〜](https://event.shoeisha.jp/devsumi/20240215)|[開発生産性の現在地点～エンジニアリングが及ぼす多角的視点](https://speakerdeck.com/i35_267/current-status-of-development-productivity)
 |2023.12|[DMM meetup #39 ～開発生産性を熱く語る会～](https://dmm.connpass.com/event/301567/)|[開発生産性の低下による、事業の失敗はなぜ起こるのか ](https://speakerdeck.com/i35_267/productivitypitfalls)<br>[【動画】YouTube](https://www.youtube.com/live/CG9aej2Oq_0?si=jezFgIjYnBdLuIFA)
 |2023.11|[開発生産性の未来：世界と日本の最前線事例から培うFour Keys向上〜ハイブリッドカンファレンス〜](https://findy.connpass.com/event/298196/)|[開発生産性の多角的接点〜1,000名のクリエイター組織 × 開発生産性〜 ](https://speakerdeck.com/i35_267/multifaceted-touchpoints-of-development-productivity)
 |2023.10|[改めて考えるDXシステム開発 2023](https://f2ff.jp/event/sysdx)|[内製化で強化させる、事業のスケーラビリティーとエンジニアの成長戦略](https://speakerdeck.com/i35_267/insourcing)
