@@ -55,11 +55,10 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 <br>
 
 ## 著書
-- [【商業誌】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/)
-- <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">
-
-- [【技術書典】DMM PointClub TechBook](https://techbookfest.org/product/8ckqypHhSCaakQ1nM1E4JS?productVariantID=3B3aLQpXmWQCx61qhcVCiz)
-- <img src="https://user-images.githubusercontent.com/40228637/189582881-57fc1296-e41b-427f-a49f-701810a53810.png" width="150">
+|key|value|
+|---|---|
+| [【商業誌】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/) |  [【技術書典】DMM PointClub TechBook](https://techbookfest.org/product/8ckqypHhSCaakQ1nM1E4JS?productVariantID=3B3aLQpXmWQCx61qhcVCiz) |
+|  <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">| <img src="https://user-images.githubusercontent.com/40228637/189582881-57fc1296-e41b-427f-a49f-701810a53810.png" width="150">| 
 
 - [論文_アジャイル開発の生産性とは.pdf](https://github.com/i35-267/resume/files/9544868/_.pdf)
 
