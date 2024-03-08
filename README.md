@@ -4,7 +4,8 @@
 |key|value|
 |---|---|
 |Name|Masato Ishigaki / 石垣 雅人|
-|Twitter|https://twitter.com/i35_267|
+|X|https://twitter.com/i35_267|
+|Piita|https://pitta.me/matches/HQYjAlIqRneE|
 |Blog|https://medium.com/i35-267|
 |SpeakerDeck|https://speakerdeck.com/i35_267|
 |Qiita|https://qiita.com/i35_267|
