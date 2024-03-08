@@ -79,7 +79,8 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 
 |Date|Event|Slide|
 |---|---|---|
-|2023.1|[Develops Summit 2023〜](https://event.shoeisha.jp/devsumi/20240215)|[開発生産性の現在地点～エンジニアリングが及ぼす多角的視点](https://speakerdeck.com/i35_267/current-status-of-development-productivity)
+|2024.2|[開発組織から経営層までが開発生産性を考える時代へ - DMMが伝えたい組織づくり](https://developer-productivity-engineering.connpass.com/event/310155/)|[「開発生産性」はエンジニア”だけ” のモノではなくなった？ /](https://speakerdeck.com/i35_267/development-productivity-is-no-longer-just-for-engineers)
+|2024.2|[Develops Summit 2024](https://event.shoeisha.jp/devsumi/20240215)|[開発生産性の現在地点～エンジニアリングが及ぼす多角的視点](https://speakerdeck.com/i35_267/current-status-of-development-productivity)
 |2023.12|[DMM meetup #39 ～開発生産性を熱く語る会～](https://dmm.connpass.com/event/301567/)|[開発生産性の低下による、事業の失敗はなぜ起こるのか ](https://speakerdeck.com/i35_267/productivitypitfalls)<br>[【動画】YouTube](https://www.youtube.com/live/CG9aej2Oq_0?si=jezFgIjYnBdLuIFA)
 |2023.11|[開発生産性の未来：世界と日本の最前線事例から培うFour Keys向上〜ハイブリッドカンファレンス〜](https://findy.connpass.com/event/298196/)|[開発生産性の多角的接点〜1,000名のクリエイター組織 × 開発生産性〜 ](https://speakerdeck.com/i35_267/multifaceted-touchpoints-of-development-productivity)
 |2023.10|[改めて考えるDXシステム開発 2023](https://f2ff.jp/event/sysdx)|[内製化で強化させる、事業のスケーラビリティーとエンジニアの成長戦略](https://speakerdeck.com/i35_267/insourcing)
