@@ -5,8 +5,8 @@
 |---|---|
 |Name|Masato Ishigaki / 石垣 雅人|
 |X|https://twitter.com/i35_267|
-|Piita|https://pitta.me/matches/HQYjAlIqRneE|
 |Blog|https://medium.com/i35-267|
+|Piita|https://pitta.me/matches/HQYjAlIqRneE|
 |SpeakerDeck|https://speakerdeck.com/i35_267|
 |Qiita|https://qiita.com/i35_267|
 |GitHub|https://github.com/i35-267|
@@ -145,6 +145,7 @@ DMM.comにエンジニア職で新卒入社し翌年からエンジニアのか�
 ムダの可視化で実現した、悪い組織体質の改善 ](https://logmi.jp/business/articles/320613)
 
 ## 執筆（記事）
+Blog : https://medium.com/i35-267
 - [ 【DMM inside】ソフトウェア開発の予測と記録と資産〜プロジェクト失敗率 69%の壁〜](https://inside.dmm.com/entry/2022/12/01/software)
 - [【DMM inside】事業をスケールさせるエンジニアリング〜技術のコモディティ化にエンジニアは敗北する〜](https://inside.dmm.com/entry/2021/12/01/connecting-business-engineering)
 - [【Offers】副業×本業で、あらゆる事業フェーズのPMを経験する価値](https://offers.jp/media/sidejob/workstyle/a_2105)
