@@ -68,7 +68,8 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 
 
 ## 連載
-- [【CodeZine】開発生産性の多角的視点 〜開発チームから事業経営に開発生産性を波及させるには？〜](https://codezine.jp/article/corner/995) 
+- [【CodeZine】開発生産性の多角的視点 〜開発チームから事業経営に開発生産性を波及させるには？〜](https://codezine.jp/article/corner/995)
+   - 第1回
 - [【NewsPicks】群知能から紐解く、スケールする“組織“の作り方](https://newspicks.com/topics/swarm-intelligence?ref=TOPIC_POST_VIEW)
 - [【ProductZine】スモールチームが武器になる時代へ ～小さい集団×Nがプロダクト開発にもたらしたもの～](https://productzine.jp/article/corner/42)
 
@@ -78,10 +79,10 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 
 |Date|Event|Slide|
 |---|---|---|
-|2024.7|[Develops Summit Summer 2024](https://event.shoeisha.jp/devsumi/20240723)|[技術負債による事業の失敗はなぜ起こるのか](https://speakerdeck.com/i35_267/why-do-business-failures-due-to-technical-debt-occur)
+|2024.7|[Develops Summit Summer 2024](https://event.shoeisha.jp/devsumi/20240723)|[技術負債による事業の失敗はなぜ起こるのか](https://speakerdeck.com/i35_267/why-do-business-failures-due-to-technical-debt-occur)<br>[記事 : DMM.comの施策から見る、事業をむしばむ「技術負債」への処方箋──リファクタリングの「言語化」でインシデントを予防](https://codezine.jp/article/detail/20125)
 |2024.6|[開発生産性カンファレンス2024](https://dev-productivity-con.findy-code.io/2024)|[「開発生産性を上げる改善」って儲かるの？に答えられるようにする](https://speakerdeck.com/i35_267/is-development-productivity-profitable)
 |2024.2|[開発組織から経営層までが開発生産性を考える時代へ - DMMが伝えたい組織づくり](https://developer-productivity-engineering.connpass.com/event/310155/)|[「開発生産性」はエンジニア”だけ” のモノではなくなった？ /](https://speakerdeck.com/i35_267/development-productivity-is-no-longer-just-for-engineers)
-|2024.2|[Develops Summit 2024](https://event.shoeisha.jp/devsumi/20240215)|[開発生産性の現在地点～エンジニアリングが及ぼす多角的視点](https://speakerdeck.com/i35_267/current-status-of-development-productivity)
+|2024.2|[Develops Summit 2024](https://event.shoeisha.jp/devsumi/20240215)|[開発生産性の現在地点～エンジニアリングが及ぼす多角的視点](https://speakerdeck.com/i35_267/current-status-of-development-productivity)<br>[記事 : Four Keysでも生産性は測れない？──DMM 石垣氏に学ぶ、開発生産性向上のための組織戦略](https://codezine.jp/article/detail/19768)
 |2023.12|[DMM meetup #39 ～開発生産性を熱く語る会～](https://dmm.connpass.com/event/301567/)|[開発生産性の低下による、事業の失敗はなぜ起こるのか ](https://speakerdeck.com/i35_267/productivitypitfalls)<br>[【動画】YouTube](https://www.youtube.com/live/CG9aej2Oq_0?si=jezFgIjYnBdLuIFA)
 |2023.11|[開発生産性の未来：世界と日本の最前線事例から培うFour Keys向上〜ハイブリッドカンファレンス〜](https://findy.connpass.com/event/298196/)|[開発生産性の多角的接点〜1,000名のクリエイター組織 × 開発生産性〜 ](https://speakerdeck.com/i35_267/multifaceted-touchpoints-of-development-productivity)
 |2023.10|[改めて考えるDXシステム開発 2023](https://f2ff.jp/event/sysdx)|[内製化で強化させる、事業のスケーラビリティーとエンジニアの成長戦略](https://speakerdeck.com/i35_267/insourcing)
