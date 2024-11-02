@@ -24,13 +24,7 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 配下メンバーは、60~70名前後。
 
 ###### 担当領域
-- 事業戦略 / PL・予算管理 / KPIマネジメント / データ分析 / 仮説検証 / 開発プロセス
-- 業務比重 : <br>
- 1. ProductManagement（事業開発、戦略、予算、KPI、データ分析）<br>
- 2. PeopleManagement（組織設計、1on1、評価、育成、採用）<br>
- 3. ProjectManagement（Developer Productivity、アジャイル・リーン、ValueStreamMapping、）<br>
- 4. Technology Management（アーキテクト、サーバーコスト、マイクロサービスとスモールチーム）<br>
-- 業務の比重に関しては、事業やプロダクトのフェーズに応じて変えています。自分のリソースをどこに置くことが一番事業・プロダクトがグロースするかを考え、事業立ち上げ時はProjectManagement / PeopleManagementに比重を多くなり、組織設計・構造を意識して市場へのデリバリー速度を意識します。そのあとの仮説と実験フェーズでは、事業戦略的のベクトルを定めるためにKPIマネジメントからデータ分析、リサーチ比重を多くして、組織を自走できるように権限移譲・裁量をコントールしながら、プロダクトマネジメント・戦略部分に重きを置きます。
+- 事業戦略 / PL・予算管理 / KPIマネジメント / データ分析 / 仮説検証プロセス / 開発プロセス
 
 全体的な方針としては、「事業をスケールさせるエンジニアリング」「再現性の高いエンジニアリング」をテーマにしています。
 技術はプロダクトを作っていくためにあり、プロダクトは事業の収支を作るためにあるので、事業とエンジニアリングの関係性を常に考えています。
@@ -44,10 +38,9 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 主に人事データとBPMのデータをBigQueryに流し込んでLookerやスプレットシートで可視化→レポーティングをしています。
 
 参考資料
+- [「開発生産性を上げる改善」って儲かるの？に答えられるようにする](https://speakerdeck.com/i35_267/is-development-productivity-profitable)
+- [【CodeZine】開発生産性の多角的視点 〜開発チームから事業経営に開発生産性を波及させるには？〜](https://codezine.jp/article/corner/995)
 - [開発生産性の現在地点～エンジニアリングが及ぼす多角的視点](https://speakerdeck.com/i35_267/current-status-of-development-productivity)
-- [開発生産性の多角的接点〜1,000名のクリエイター組織 × 開発生産性〜 ](https://speakerdeck.com/i35_267/multifaceted-touchpoints-of-development-productivity)
-
-
 
 #### 副業 :
 スタートアップ、上場企業を中心にアジャイルコーチ、データアナリスト、プロダクトマネジメント、プロジェクトマネジメント、採用アシストといった組織課題を解決する立ち回りをしている
@@ -55,21 +48,19 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 <br>
 
 ## 著書
-|key|value|
+|||
 |---|---|
 | [【商業誌】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/) |  [【技術書典】DMM PointClub TechBook](https://techbookfest.org/product/8ckqypHhSCaakQ1nM1E4JS?productVariantID=3B3aLQpXmWQCx61qhcVCiz) |
 |  <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">| <img src="https://user-images.githubusercontent.com/40228637/189582881-57fc1296-e41b-427f-a49f-701810a53810.png" width="150">| 
 
+## 論文
 - [論文_アジャイル開発の生産性とは.pdf](https://github.com/i35-267/resume/files/9544868/_.pdf)
 
 
 <br>
 
-
-
 ## 連載
 - [【CodeZine】開発生産性の多角的視点 〜開発チームから事業経営に開発生産性を波及させるには？〜](https://codezine.jp/article/corner/995)
-   - 第1回
 - [【NewsPicks】群知能から紐解く、スケールする“組織“の作り方](https://newspicks.com/topics/swarm-intelligence?ref=TOPIC_POST_VIEW)
 - [【ProductZine】スモールチームが武器になる時代へ ～小さい集団×Nがプロダクト開発にもたらしたもの～](https://productzine.jp/article/corner/42)
 
