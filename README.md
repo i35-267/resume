@@ -55,10 +55,11 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 <br>
 
 ## 著書
-|||
-|---|---|
-| [【商業誌】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/) |  [【技術書典】DMM PointClub TechBook](https://techbookfest.org/product/8ckqypHhSCaakQ1nM1E4JS?productVariantID=3B3aLQpXmWQCx61qhcVCiz) |
-|  <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">| <img src="https://user-images.githubusercontent.com/40228637/189582881-57fc1296-e41b-427f-a49f-701810a53810.png" width="150">| 
+||||
+|---|---|---|
+| [「正しく」失敗できるチームを作る]([https://github.com/user-attachments/assets/b85bc626-4502-42a2-a72e-ef7fd704cae7](https://gihyo.jp/book/2025/978-4-297-14738-9)) | [【商業誌】DMMを支えるデータ駆動戦略](https://www.amazon.co.jp/dp/4839970165/) |  [【技術書典】DMM PointClub TechBook](https://techbookfest.org/product/8ckqypHhSCaakQ1nM1E4JS?productVariantID=3B3aLQpXmWQCx61qhcVCiz) |
+| <img src="https://github.com/user-attachments/assets/b85bc626-4502-42a2-a72e-ef7fd704cae7" width="150"> | <img src="https://user-images.githubusercontent.com/40228637/132396654-2018d4e7-f27b-4b18-a254-18ff43dbbc76.jpg" width="150">| <img src="https://user-images.githubusercontent.com/40228637/189582881-57fc1296-e41b-427f-a49f-701810a53810.png" width="150">| 
+
 
 ## 論文
 - [論文_アジャイル開発の生産性とは.pdf](https://github.com/i35-267/resume/files/9544868/_.pdf)
