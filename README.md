@@ -17,10 +17,10 @@
 
 ## 所属
 #### [合同会社DMM.com](https://dmm-corp.com/business/)  
-プラットフォーム開発本部 第1開発部 部長 / VPoE室 / α室 <br>
+プラットフォーム開発本部 副本部長 / 第1開発部 部長 / VPoE室 / α室 <br>
 
 DMM.comにエンジニア職で新卒入社し、翌年からプロジェクトマネージャーを務める。<br>
-その後、いくつかのプロダクトマネージャーを歴任し、2020年DMM.comの入り口である総合トップなどを管轄する総合トップ開発部の立ち上げを行い部長を従事。<br> 現在はプラットフォーム事業本部 第1開発部 部長を努め、VPoE室・アルファ室を兼務。DMMポイントクラブサービスの立ち上げからグロース、DMM.comの3,914万会員のID基盤 ・個人情報・CS-Platform・商品レビュー基盤を管轄する開発部の部長、DMM全体のエンジニア・デザイナー・PM組織の組織課題を解決するVPoE室・アルファ室を兼務している。
+その後、いくつかのプロダクトマネージャーを歴任し、2020年DMM.comの入り口である総合トップなどを管轄する総合トップ開発部の立ち上げを行い部長を従事。<br> 現在はプラットフォーム開発本部 副本部長 / 第1開発部 部長を努め、VPoE室・アルファ室を兼務。DMMポイントクラブサービスの立ち上げからグロース、DMM.comの3,914万会員のID基盤 ・個人情報・CS-Platform・商品レビュー基盤を管轄する開発部の部長、DMM全体のエンジニア・デザイナー・PM組織の組織課題を解決するVPoE室・アルファ室を兼務している。
 配下メンバーは、60~70名前後。
 
 ###### 担当領域
@@ -77,6 +77,9 @@ DMM.comにエンジニア職で新卒入社し、翌年からプロジェクト�
 
 |Date|Event|Slide|
 |---|---|---|
+|2025.3|[「正しく」失敗できるチームを作る──現場のリーダーのための恐怖と不安を乗り越える技術 - FL#83](https://forkwell.connpass.com/event/345867/)|[【Forkwell】「正しく」失敗できるチームを作る──現場のリーダーのための恐怖と不安を乗り越える技術 - FL#83](https://speakerdeck.com/i35_267/a-team-that-can-fail-correctly-by-forkwell)
+|2025.2|[「正しく」失敗できるチームの作り方 - リアルな事例から紐解く失敗を恐れない組織とは](https://developer-productivity-engineering.connpass.com/event/344434/)|[【Findy】「正しく」失敗できる チームの作り方 〜リアルな事例から紐解く失敗を恐れない組織とは〜](https://speakerdeck.com/i35_267/a-team-that-can-fail-correctly)
+|2025.2|[技術的負債解消の軌跡～現場と経営をつなぐ実践事例～](https://findy.connpass.com/event/343423/)|[技術負債の「予兆検知」と「状況異変」のススメ](https://speakerdeck.com/i35_267/ji-shu-fu-zhai-no-yu-zhao-jian-zhi-to-zhuang-kuang-yi-bian-nosusume)
 |2024.7|[Develops Summit Summer 2024](https://event.shoeisha.jp/devsumi/20240723)|[技術負債による事業の失敗はなぜ起こるのか](https://speakerdeck.com/i35_267/why-do-business-failures-due-to-technical-debt-occur)<br>[記事 : DMM.comの施策から見る、事業をむしばむ「技術負債」への処方箋──リファクタリングの「言語化」でインシデントを予防](https://codezine.jp/article/detail/20125)
 |2024.6|[開発生産性カンファレンス2024](https://dev-productivity-con.findy-code.io/2024)|[「開発生産性を上げる改善」って儲かるの？に答えられるようにする](https://speakerdeck.com/i35_267/is-development-productivity-profitable)
 |2024.2|[開発組織から経営層までが開発生産性を考える時代へ - DMMが伝えたい組織づくり](https://developer-productivity-engineering.connpass.com/event/310155/)|[「開発生産性」はエンジニア”だけ” のモノではなくなった？ /](https://speakerdeck.com/i35_267/development-productivity-is-no-longer-just-for-engineers)
